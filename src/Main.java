@@ -78,7 +78,6 @@ public class Main {
                 for (ArrayList<Value> j : valuesTest.values()) {
                     int i=0;
                     for (Value k : j) {
-                        i++;
                         if (perceptron.get(k.arr) != perceptron.looking.equals(k.name)) {
 
                             //System.out.println(k.name + " " + i);
@@ -87,6 +86,7 @@ public class Main {
                         } else {
                             ile++;
                         }
+                        i++;
                     }
                 }
                 System.out.println(ile + " " + zle);
