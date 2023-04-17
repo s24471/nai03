@@ -1,0 +1,386 @@
+
+Biom
+(Weitergeleitet von Zonobiome)
+Als Biom (griechisch bio- „Leben“ mit der Endung -om)[1] wird die vorherrschende Lebensgemeinschaft (Biozönose) oder gleich das gesamte vorherrschende Ökosystem eines ausgedehnten Bereichs der Erdoberfläche bezeichnet. Damit sind Biome konkrete Großlebensräume mit den potenziell darin vorkommenden Pflanzen, Tieren, übrigen Organismen und den unbelebten Bestandteilen. Sie stellen somit einen Oberbegriff für die Gesamtheit aller darin vorkommenden Ökotope (Biotope).
+
+Der Biom-Begriff wurde für festländische (terrestrische) Biozönosen entwickelt und wird bis heute hauptsächlich für solche Bereiche der Erdoberfläche verwendet. Ein terrestrisches Biom erhält seinen Eigennamen nach seiner typischen, voll entwickelten Pflanzenformation oder nach einer herausstechenden Eigenschaft seiner unbelebten (abiotischen) Umwelt. Hierbei werden häufig Eigenschaften des vorhandenen Makroklimas herangezogen. Erst in jüngerer Zeit wurden auch aquatische Biome ausgewiesen.
+
+Der Biom-Begriff geht auf Forschungsansätze der Biowissenschaften zurück und wird bis heute vor allem in biowissenschaftlichen Lehrbüchern genannt. Der mehr geowissenschaftlich geprägte Begriff „Ökoregion“ weist eine sehr große inhaltliche Ähnlichkeit zu Biom auf und wird daher heute oftmals synonym verwendet. Das Gleiche gilt für die geozonalen Ableitungen „Zonobiom“ (siehe unten) und „Ökozone“ sowie für eine Reihe weiterer von Geowissenschaftlern geprägten Begriffen.[2]
+
+Es gibt keinen allgemeingültigen Standard zur Festlegung der Kriterien für globale Biome, sodass die Kartenbilder, Benennungen und die Anzahl der Biome verschiedener Modelle voneinander abweichen. Überdies existiert eine Vielzahl von Grenzwerten und Aussagen, die über Jahrzehnte unkritisch beibehalten wurden, obwohl sie modernen Erkenntnissen teilweise nicht mehr entsprechen. Vergleiche werden dadurch erheblich erschwert.[3]
+
+Die Abgrenzung großer Ökosysteme nach artverwandtschaftlicher Beziehungen, die auf einer gemeinsamen erdgeschichtlichen Entwicklung beruhen, werden in der Biologie nicht als „Biom“, sondern als „Floren- bzw. Faunenreich“ bezeichnet.
+
+
+Inhaltsverzeichnis
+1	Begriff
+2	Biomgröße
+3	Biome nach Walter und Breckle: Zonobiome, Orobiome, Pedobiome
+3.1	Tabellarische Übersicht
+3.2	Karte
+3.3	Vereinfachungen und Auswahlen
+4	Biome nach Whittaker und Haggett: Biomtypen und Landbiome
+4.1	Biomtypen
+4.2	Landbiome
+5	Anthrome
+6	Siehe auch
+7	Literatur
+8	Weblinks
+9	Einzelnachweise
+Begriff
+Das Wort Biom kann heute als Kurzform des Wortes Bioformation gedeutet werden.[4] Eine Bioformation ist die gesamte Biozönose (Pflanzen, Tiere, Pilze, Mikroorganismen) eines ausgedehnten Bereichs der Erdoberfläche, erkennbar an der Pflanzenformation ihrer Klimaxvegetation.
+
+Der US-amerikanische Botaniker Frederic Edward Clements verwendete den Begriff biome in einem Vortrag am 27. Dezember 1916, damals noch als kurzes Synonym für biotic community (Biozönose).[5] In dieser Bedeutung wurde es 1932 zur Klassifikation von Biozönosen verwendet.[6]
+
+Der ursprüngliche Biom-Begriff hatte also noch keinen direkten inhaltlichen Bezug zur Pflanzenformation. Die Verbindung zu Pflanzenformationen erfolgte erst sieben Jahre später. Ein Biom bezeichnete fortan die Biozönose der Klimaxvegetation, benannt nach ihrer Pflanzenformation (→ Potenzielle natürliche Vegetation):
+
+“The biome or plant-animal formation is the basic community unit, that is, two separate communities, plant and animal, do not exist in the same area. … The term biome, as here employed, is regarded as the exact synonym of formation and climax when these are used in the biotic sense.”
+
+„Das Biom, oder auch Pflanze-Tier-Formation, ist die grundlegende Einheit der Gemeinschaft. Daraus folgt, dass zwei verschiedene Gemeinschaften aus Pflanzen und Tieren nicht in der gleichen Weltgegend vorkommen. … Der Begriff des Bioms, wie er hier benutzt wird, wird angesehen als das exakte Synonym für Formation und Klimax[gesellschaft], wenn diese Begriffe in ihren biologischen Bedeutungen benutzt werden.“
+
+– Frederic Edward Clements: Bio-Ecology: 20[7]
+Beispiel
+Nach einem Waldbrand in Mitteleuropa ist die abgebrannte Fläche zunächst kahl. Dann kommen allmählich wieder erste Pflanzen hoch. Die Pionierpflanzen werden bald abgelöst von Lichtgehölzen. Im Schatten der Lichtgehölze siedeln sich Schattengehölze an. Sie wachsen über die Wipfel der Lichtgehölze hinaus. Dadurch nehmen sie den Lichtgehölzen zunehmend das Licht. Schließlich werden die Lichtgehölze verdrängt. Danach wird ein Baumbestand aus Schattengehölzen nicht mehr von anderen Pflanzen abgelöst. Demzufolge wurde mit ihnen der Endpunkt der Sukzession erreicht: Ein Baumbestand aus Schattengehölzen ist die Klimaxvegetation der mitteleuropäischen, abiotischen Umweltausstattung. In der Klimaxvegetation (Klimax-Phytozönose) aus Schattengehölzen lebt ein bestimmtes Ensemble von Tieren (Klimax-Zoozönose) und viele andere Lebewesen (Pilze, Mikroorganismen). Alle Lebewesen zusammen bilden die Klimax-Biozönose des Schattengehölzwaldes. Das betreffende Biom kann Temperierter Laubwald genannt werden. Der Biom-Begriff benennt hier zwar nur die Pflanzenformation, schließt jedoch automatisch alle Lebewesen der Biozönose innerhalb diese Formation (Pflanzen, Tiere, Pilze, Mikroorganismen) mit ein.
+
+Ein Bestand aus Rotbuchen gehört zur Formation der Sommergrünen Laubwälder.
+Der biotische Biom-Begriff von 1939, der ausschließlich auf die Biozönose der Klimaxvegetation abzielt, wurde schnell anerkannt[8] und blieb über Jahrzehnte im Gebrauch.[9][10][11] Allerdings bahnte sich schon ab den 1960ern eine begriffsinhaltliche Verschiebung an. Sie wurde eingeleitet durch den deutsch-russischen Geobotaniker Heinrich Karl Walter. Er schrieb 1960, dass der Biom-Begriff inhaltlich nicht streng definiert wäre.[12] Damit war die feste Bindung des Biom-Begriffs an die Biozönose aufgebrochen worden. Vor diesem Hintergrund veröffentlichte zehn Jahre später der US-amerikanische Pflanzenökologe Robert Harding Whittaker seine Biom-Definition:
+
+“A major kind of community, conceived in terms of physiognomy, on a given continent is a biome or formation. (Formation is used when the concern is with plant communities only, biome when the concern is with both plants and animals. …) A biome is a grouping of terrestrial ecosystems on a given continent that are similar in vegetation structure or physiognomy … The Biome concept is most widely applied to land ecosystems but can also be applied in aquatic environments.”
+
+„Eine hervorstechende Form von Lebensgemeinschaft, die anhand ihres Aussehens erkannt wird, stellt auf einem gegebenen Kontinent ein Biom oder eine Formation. (Formation wird gebraucht, wenn ausschließlich Pflanzengemeinschaften berücksichtigt werden, Biom wenn sowohl Pflanzen als auch Tiere berücksichtigt werden …) Ein Biom ist eine Gruppierung landgebundener Ökosysteme auf einem gegebenen Kontinent, die sich im Aufbau ihrer Vegetation beziehungsweise in ihrem Aussehen gleichen … Das Biom-Konzept wird meistens für Landökosysteme verwendet, kann aber genauso für aquatische Umgebungen benutzt werden.“
+
+– Robert Harding Whittaker: Robert Harding Whittaker: Communities and Ecosystems. S. 51–52.[13]
+Whittakers Biom-Definition begann biotisch (kind of community) und endete ökologisch (widely applied to land ecosystems): Nach Whittaker bezeichnete ein Biom einen Verbund von Ökosystemen, die wegen ihrer sich gleichenden Biozönosen zusammengefasst werden können. Somit wurde vom biotischen Biom-Begriff abgewichen. Spätestens seit den 1970ern bis in die 1990er Jahre hinein waren sowohl der alte biotische, als auch der neue ökologische Biom-Begriff in Gebrauch. Daraus erwuchsen begriffliche Unsicherheiten. Sie wurden 1995 vom deutschen Geographen Heinz Nolzen versuchsweise geklärt:
+
+„Zu jedem Klimatyp bzw. klimatischen Bodentyp gehören charakteristische Pflanzen- und Tiergesellschaften. … Solche charakteristischen Pflanzen- und Tiergesellschaften eines klimatisch einheitlichen Lebensraumes werden als Bioformationen (Pflanzen- und Tierformationen), ihre Lebensräume als Biome, Großlebensräume oder Makroökosysteme bezeichnet. Die Biome bilden die ökologische Makrostruktur der [Öko]sphäre.“
+
+– Heinz Nolzen: Die Biozonen der Erde[14]
+Nolzen schlug damit vor, die beiden Biom-Begriffe wieder säuberlich voneinander zu trennen. Für den biotischen Biom-Begriff wollte er einerseits zur ursprünglichen Wortbildung Bioformation zurückkehren. Biom selbst sollte andererseits fortan allein für den ökologischen Biom-Begriff vorbehalten bleiben. Sein Vorschlag setzte sich nicht durch. Einerseits hatte er ihn bloß in einem Handbuch für Erdkundelehrer abdrucken lassen.[15] Andererseits hatte das Wort Bioformation inzwischen eine neue biowissenschaftliche Bedeutung erhalten.[16][17] Stattdessen setzte sich einfach der neue ökologische Biom-Begriff immer weiter durch, während der alte biotische Begriff beständig weniger benutzt wurde:
+
+“[biome means] a regional ecosystem with a distinct assemblage of vegetation, animals, microbes, and physical environment often reflecting a certain climate and soil.”
+
+„[Biom bezeichnet] ein regionales Ökosystem mit einer bestimmten Kombination an Pflanzen, Tieren, Mikroorganismen und unbelebten Umweltmerkmalen, die oft bestimmte Klima- und Bodenverhältnisse widerspiegeln.“
+
+– The Dictionary of Forestry[18]
+Nach der neuen Begriffsdefinition schloss Biom auch die abiotische Umwelt (Physiosystem) mit ein. Spätestens Ende der 1990er Jahre war der ursprüngliche, rein biotische Biom-Begriff[19] vom abgewandelten, ökologischen Biom-Begriff ersetzt worden.[20] Die jüngere Begriffsauffassung macht heutzutage Biom jedoch synonym zu zwei anderen Begriffen: Ökoregion beziehungsweise Ökozone. Im Gegensatz zu Biom wurden beide Begriffe nicht von Bio-, sondern von Geowissenschaftlern geprägt.[21] Inhaltlich aber besteht weitgehende Übereinstimmung zwischen ihnen und dem ökologischen Biom-Begriff.[22][23][24][25] Bis auf wenige Ausnahmen[26] hat der ökologische Biom-Begriff inzwischen dennoch den biotischen Biom-Begriff vollständig abgelöst.
+
+Weil Biome anhand des allgemeinen Aussehens ihrer Klimaxvegetation – also anhand ihrer "Pflanzenformation" – ausgewiesen werden, spielt die genaue Artzusammensetzung für sie keine Rolle: Bei Biomen handelt es sich nicht um Pflanzengesellschaften.[27] Das bewirkt eine kontinentübergreifende Identifizierbarkeit.
+
+Beispiel
+Die meisten Pflanzengesellschaften Mitteleuropas gehören zur Pflanzengesellschaftsklasse Querco-Fagetea.[28] Das heißt, dass in ihnen typischerweise Laubbäume der Eichen-Gattung (Quercus) und Rotbuchen (Fagus sylvatica) vorkommen. Das Areal der Rotbuche ist aber auf Europa begrenzt. Weil Pflanzengesellschaften nach ihrem Artbestand bestimmt werden, kann es wegen fehlender Rotbuchen genau diese Pflanzengesellschaften nicht außerhalb Europas geben. Die Pflanzengesellschaftsklasse Querco-Fagetea stellt jedoch in Mitteleuropa die Pflanzenformation der Sommergrünen Laubwälder. Solche Laubwälder befinden sich auch noch an der Ostküste der USA und im küstennahen China.[29] Das Biom, das anhand der Pflanzenformation der Sommergrünen Laubwälder identifiziert wird, kommt also auf drei Kontinenten vor, obwohl sich die jeweils vorhandenen Pflanzenarten unterscheiden.
+Ein gleichendes Äußeres – eine gleiche Pflanzenformation – bei unterschiedlichem Arteninventar ist Folge analoger Evolution: Verschiedene Arten, die nicht unbedingt nahe miteinander verwandt sein müssen, haben wegen ähnlicher Umweltbedingungen ähnliche Formen evolviert. Deshalb lassen gleiche formative Ähnlichkeiten auch den Rückschluss auf sich gleichende Umweltbedingungen zu.[30][31]
+
+Biomgröße
+Eine Schwierigkeit des Biom-Begriffs beruht darauf, dass mit diesem einen Wort die Biozönosen – beziehungsweise die Ökosysteme – verschieden großer Bereiche der Ökosphäre benannt werden können.
+
+Biom als Zonobiom: Das Zonobiom benennt die Biozönose – oder das Ökosystem – eines Erdraums zonaler (erdumspannender) Ausdehnung, dessen Lage sich vor allem an den Klimazonen orientiert.[32] Obwohl die Zahl zwischen den Autoren leicht schwankt, werden weltweit doch stets weniger als 30 Zonobiome ausgewiesen.[33][34][35][36] An eben so einer geringen Zahl kann erkannt werden, wenn ein Autor den Biom-Begriff für Zonobiome benutzt. Zonobiome werden auch Hauptbiome.[37] größere Biome[38] oder Biomtypen[39][40] genannt.
+Biom als Eu-Biom: Jedes Zonobiom kann weiter untergliedert werden.[41][42] Diese Untergliederungen bilden die eigentlichen (Eu-)Biome. Das Eu-Biom benennt die Biozönose – oder das Ökosystem – eines Erdraums regionaler Ausdehnung.[43] Während es global nur eine Handvoll Zonobiome gibt, können weltweit mehrere hundert Eu-Biome ausgewiesen werden.[44] An eben so einer großen Zahl kann erkannt werden, wenn ein Autor den Biom-Begriff für Eu-Biome benutzt.
+
+Ein Eu-Biom bezeichnet entweder die Biozönose eines Erdraums regionaler Ausdehnung (klassischer Begriff, grün) oder benennt das ganze Ökosystem in seiner regionalen Erstreckung. Im letzteren Fall wird Eu-Biom ein Synonym für Ökoregion (neuer Begriff, orange).
+Ein Zonobiom bezeichnet entweder die Biozönose einer Erdraums zonaler – also erdumspannender – Ausdehnung (klassischer Begriff, grün) oder benennt das ganze Ökosystem in seiner zonalen Erstreckung. Im letzteren Fall wird Zonobiom ein Synonym für Ökozone[22] (neuer Begriff, orange).
+Biome nach Walter und Breckle: Zonobiome, Orobiome, Pedobiome
+„Wir verstehen [unter Eu-Biom] eine übersehbare Landschaftseinheit, z. B. in der klimatischen Reihe die mitteleuropäischen Laubwälder oder bei den Wüsten die Sonora-Wüste … Es gibt weltweit mehrere hundert Eu-Biome.“
+
+– Heinrich Karl Walter, Siegmar-Walter Breckle: Ökologie der Erde, Band 1 · Grundlagen. S. 27.[45]
+Im deutschsprachigen Raum konnte sich das System der Biome nach Heinrich Karl Walter und Siegmar-Walter Breckle etablieren.[36][46][47] Ihre Biome besitzen keinen rein biotischen, sondern eher einen ökologischen Charakter.[48] So werden den Biomen nicht nur bestimmte Vegetationsformationen, sondern auch bestimmte Bodentypen zugeordnet.[14][49] Zwar können die einigermaßen rigorosen Bodentyp-Zuordnungen der beiden Autoren angezweifelt werden.[50] Gleichwohl beinhaltet Bodenbildung häufig Wechselwirkungen zwischen den Lebewesen und der unbelebten Lithosphäre.[51]
+
+Daraus folgt, dass der Biom-Begriff nach Walter und Breckle ökologische Anteile besitzt. An anderer Stelle werden ihre Biome sogar als „Lebensräume“ bezeichnet.[14][33][52] Die Verweise auf die abiotische Umweltausstattung geben diesen Biomen einen ökologischen Bedeutungsinhalt. Sie rücken damit in die Nähe der Ökoregionen beziehungsweise Ökozonen.[22]
+
+Walter und Breckle unterscheiden drei Reihen von Biomen – Zonobiome, Orobiome und Pedobiome.[53] Die Begriffe wurden von Heinrich Karl Walter erfunden und waren erstmals 1976 veröffentlicht worden.[54][55]
+
+Zonobiome: Ein Zonobiom fasst Landschaften zusammen, die größere Übereinstimmungen in den untersuchten Merkmalen Klima, Vegetation, Tierwelt und Böden aufweisen. Als wichtigstes Unterscheidungskriterium gilt Walter und Breckle dabei das Klima.[56] Die räumliche Lagebestimmung der Zonobiome richtet sich demgemäß in erster Linie nach den Klimazonen. Deshalb legen sich Zonobiome ganz ähnlich wie Klimazonen gürtelförmig um die Erde, von den Tropen bis zu den beiden Polarzonen. In diesem Kontext reiht sich das System der Zonobiome in die geozonalen Modelle der Biogeographie ein.
+Walter und Breckle arbeiten insgesamt neun Zonobiome heraus. Sie bilden die vornehmlich klimatisch bedingte Hauptreihe – das grobe Basisraster – der Biome. Weil sie sich hauptsächlich nach den Klimazonen richten, sind ihre Lage und Ausdehnung stark abhängig vom Makroklima. Das Makroklima kann im Gegensatz zum Mikroklima durch die Biozönose nicht unmittelbar verändert werden. Die Lage der Zonobiome richtet sich also weit überwiegend nach diesem abiotischen Standortfaktor, ohne dass das Leben darauf in direkter Weise Einfluss hätte.[57] Demnach folgen Zonobiome vor allem den jeweils herrschenden Temperatur- und Niederschlagsbedingungen.[42] Genauer gesagt folgen sie der maximalen Abkühlung der Luft im Jahr und der Jahresniederschlagssumme in ihrer jahreszeitlichen Verteilung.[58] Jene Bedingungen wiederum sind abhängig vom Breitengrad (→ Beleuchtungszonen), von der Entfernung zum Meer (→ Ozeanität / Kontinentalität) und eventuell von hohen Gebirgen, die Niederschläge abhalten (→ Klimascheiden). Sehr weitläufige Zonobiome werden eventuell nochmals untergliedert in Sub-Zonobiome, die nach gewissen klimatischen Eigenheiten ausgewiesen werden.[59] Dies geschieht bei Zonobiom VII (Zonobiom von kontinentalem, arid-gemäßigtem Klima mit kalten Wintern). Es wird in die Sub-Zonobiome VII a, VII b und VII c geteilt.
+
+Die Alpen sind ein interzonales Orobiom.
+Orobiome: Orobiome bilden die gebirgsbedingte (orographische) Nebenreihe der Biome. Sie unterscheiden sich durch ihre Gebirgigkeit von den umgebenden Zonobiomen. Orobiome bilden schmale Gürtel, die höhenabhängig um die Gebirge herumlaufen (→ Höhenstufen). Die Orobiome werden nach ihrer Lage in drei Gruppen geteilt:[60]
+Unizonale Orobiome: Orobiome, die innerhalb eines einzigen Zonobioms liegen, zum Beispiel Tibesti, Kilimandscharo.
+Multizonale Orobiome: Orobiome, die sich durch mehrere Zonobiome erstrecken, zum Beispiel der Ural. Für jedes durchschnittene Zonobiom wird ein eigenes Sub-Orobiom ausgewiesen.
+Interzonale Orobiome: Orobiome, die auf der Linie zwischen zwei Zonobiomen liegen und diese als wirksame Klimascheide voneinander trennen, zum Beispiel die Alpen.
+Pedobiome: Pedobiome bilden die bodenbedingte (edaphische) Nebenreihe der Biome. Sie unterscheiden sich aufgrund besonderer, abiotischer Bodeneigenschaften von den umgebenden Zonobiomen. Pedobiome liegen mehr oder weniger unregelmäßig in die Zonobiome eingestreut. Die Pedobiome werden nach ihren Bodeneigenschaften in sieben Gruppen geteilt:[61]
+Lithobiome: Pedobiome auf kaum verwittertem Festgestein, zum Beispiel Lavadecken.
+Psammobiome: Pedobiome auf Sand, zum Beispiel Sanddünen.
+Halobiome: Pedobiome der Salzböden, zum Beispiel die Etosha-Pfanne.
+Helobiome: Pedobiome der Sümpfe, zum Beispiel der Sudd.
+Hydrobiome: Pedobiome der staunassen Böden, zum Beispiel auf den Bodentypen Dy, Sapropel oder Gyttja.
+Peinobiome: Pedobiome der nährsalzarmen Böden, zum Beispiel die Cerrado.
+Amphibiome: Pedobiome auf zeitweise überfluteten Böden, zum Beispiel im Watt oder unter Mangrovenwäldern.
+Jedes der Zonobiome und Sub-Zonobiome, Orobiome und Pedobiome wird wiederum aus Eu-Biomen aufgebaut.[44] Auf diese Weise entsteht ein weltumspannendes Biom-Mosaik aus mehreren hundert Eu-Biomen.[44] Die Einteilung der Erde in Biome entspricht dem Versuch, die extrem vielgestaltigen Räume der Erde anhand einiger, weit ausgreifender Kriterien in größere Raumeinheiten zu gliedern. Ein großes Problem stellt dabei die Tatsache dar, dass es in der Natur in aller Regel nur fließende Übergänge und kaum klar gezogene Grenzen gibt. Walter und Breckle lösen das Problem, indem sie Übergangsräume zwischen den eindeutig festlegbaren Kernbereichen der Biome einzogen, die sie als Ökotone bezeichneten.[62] In solchen Gebieten des allmählichen Überleitens von einem in das nächste Biom („ökologische Spannungsräume“[33]) existiert eine große Vielfalt ökologischer Nischen. Demzufolge kommen vergleichsweise viele Tier- und Pflanzenarten vor.[63][64] So wird die subalpine Höhenstufe als Ökoton zwischen den Orobiomen der montanen und der alpinen Höhenstufe angesehen.[65]
+
+Die Ökotone zwischen Zonobiomen werden Zonoökotone[66] oder Zono-Ökotone[33][67] genannt. Typische Zonoökotone sind beispielsweise die Waldtundra zwischen dem borealen und dem polaren Zonobiom und die Waldsteppe zwischen dem borealen und dem kontinentalen Zonobiom.[68]
+Der Begriff der Ökotone wurde 1988 in genau gleicher Bedeutung übernommen in das damals neu entwickelte Konzept der Ökozonen,[69] das sich inhaltlich kaum von Zonobiomen unterscheidet.[22][23] Allerdings werden auf gängigen Zonobiom-Karten[70] mehr Ökotone explizit abgebildet als auf den bisher veröffentlichten Ökozonen-Karten.[71][72]
+
+Tabellarische Übersicht
+Zonobiome (Walter/Breckle)[73]
+Typus	Zonobiom	Makroklima	Bodenzone	Vegetationszone	Anmerkungen
+I	Äquatoriales Zonobiom	Tageszeitenklima. Meistens vollhumid.	Äquatoriale Braunlehme. Ferralitische Boden-Latosole.	Immergrüner tropischer Regenwald.	Jahreszeitliche Aspekte fast fehlend.
+II	Tropisches Zonobiom	Humid-arides Klima. Sommerregenzeit. Kühle Dürrezeit.	Rotlehme oder Roterden. Fersiallitische Savannenböden.	Tropischer laubabwerfender Wald oder Savanne.	
+III	Subtropisches Zonobiom	Arides Wüstenklima. Höchstens spärliche Niederschläge.	Sieroseme oder Syroseme. Auch Salzböden.	Subtropische Wüstenvegetation.	Gesteine bestimmen das Landschaftsbild.
+IV	Mediterranes Zonobiom	Arid-humides Klima. Winterregenzeit. Sommerdürre.	Mediterrane Braunerde. Oft fossile Terra rossa.	Hartlaubgehölze. Mit Empfindlichkeit gegen längere Fröste.	
+V	Warmtemperiertes Zonobiom	Mild-maritimes Klima. Oder oft mit sommerlichem Regenmaximum.	Rote oder gelbe Waldböden. Leichte Podsolierung.	Temperierter immergrüner Wald. Mit leichter Frostempfindlichkeit.	
+VI	Nemorales Zonobiom	Typisches gemäßigtes Klima. Mit kurzer Winterkälte.	Wald-Braunerde oder graue Waldböden. Oft Lessivierung.	Nemoraler winterkahler Laubwald. Größere Frostresistenz.	
+VII	Kontinentales Zonobiom	Arid-gemäßigtes Klima. Mit kalten Wintern.	Tschernoseme. Kastanoseme. Buroseme bis Sieroseme.	Steppen- bis Wüstenvegetation. Größere Frostresistenz.	Nur Sommermonate sind heiß.
+VIII	Boreales Zonobiom	Kalt-gemäßigtes Klima. Mit kühlen Sommern und langen Wintern.	Podsole oder Rohhumus-Bleicherde.	Borealer Nadelwald. Starke Frostresistenz.	
+IX	Polares Zonobiom	Polares Klima. Mit sehr kurzen Sommern.	Humusreiche Tundraböden. Mit starken Solifluktionserscheinungen.	Baumfreie Tundravegetation.	Meistens Permafrost.
+Karte
+
+Zonobiome und Zonoökotone der Erde nach Walter u. Breckle
+
+(weitgehend flächentreue Eckert VI-Kartenprojektion)
+Die Zonoökotone (Übergangsräume) sind in den jeweiligen Farben diagonal schraffiert
+Die Flächenanteile beinhalten jeweils die Hälfte der angrenzenden Zonoökotone
+
+﻿I – Zonobiom der tropischen Regenwaldgebiete	ca. 9 %	
+﻿II – Zonobiom der tropisch-subtropischen Regenzeitenwälder und Savannen	ca. 20 %	
+﻿III – Zonobiom der heißen Halbwüsten und Wüsten	ca. 13 %	
+﻿IV – Mediterranes Zonobiom (Warmtemperate, dürre- und episodisch frostbelastete Gebiete mit Hartlaubwäldern)	ca. 2 %	
+﻿V – Lorbeerwald-Zonobiom (Warmtemperate, regenreiche, episodisch frostbelastete Gebiete mit immergrünen Wäldern)	ca. 3 %	
+﻿VI – Nemorales Zonobiom (Winterkalte Gebiete mit sommergrünen Wäldern)	ca. 5 %	
+﻿VII a) – Winterkaltes Vollwüsten-Zonobiom	VII =      ca. 12 %	 (4 %)
+﻿VII b) – Winterkaltes Halbwüsten-Zonobiom	 (3 %)
+﻿VII c) – Winterkaltes Steppen-Zonobiom	 (5 %)
+﻿VIII – Boreales Zonobiom (Winterkalte Nadelwaldgebiete)	ca. 10 %	
+﻿IX – Polares Zonobiom (Tundren und polare Wüsten)	ca. 10 %	
+﻿Eisschilde und Gletscher	ca. 5 %	
+﻿Gebirgszüge (Orobiome)	ca. 11 %	
+Vereinfachungen und Auswahlen
+
+Polares Zonobiom (Walter/Breckle), beziehungsweise Tundra (Odum), beziehungsweise subarktische und arktische Vegetation (Körner)
+Die Zonobiome nach Heinrich Karl Walter und Siegmar-Walter Breckle wurden von vielen Autoren in ihre eigenen Lehrwerke übernommen. Dabei wurden sie allerdings häufig vereinfacht[41] oder es wurden bloß die besonders weit verbreiteten oder sehr markanten Biome herausgegriffen.[36] Vor allem aber wurden die Zonobiome nicht mehr makroklimatologisch benannt, sondern die jeweils vorherrschende Vegetation direkt für die Benennung herangezogen.
+
+Zonobiome (Walter/Breckle) · Hauptbiome (Odum) · Biome (Körner)
+Zonobiome[74]	Hauptbiome[75]	Biome[76]
+Äquatoriales Zonobiom	Tropische Regenwaldbiome	Feucht-tropische Tieflandwälder
+Feucht-tropische Bergwälder
+Tropische und subtropische Hochgebirgsvegetation
+Tropische Flachküsten mit Sand oder Korallenschutt
+Tropisches Zonobiom	Tropische Strauch- und Laubwaldbiome	Tropische halbimmergrüne Wälder
+Tropische Savannenbiome	Tropische Savannen
+Tropische und subtropische Schlickküsten im Gezeitenbereich (Mangrovenwälder)
+Subtropisches Zonobiom	Wüstenbiome	Vegetation der heißen Wüsten
+Pinyon-Wacholder-Biome
+Mediterranes Zonobiom	Hartlaubgehölz-Biome	Winterregengebiete des mediterranen Klimatyps
+Temperate bis mediterrane Flachküsten
+Temperate bis mediterrane Steilküsten
+Warmtemperiertes Zonobiom	Immergrüne subtropische Laubwaldbiome	Lorbeerwaldzone
+Nemorales Zonobiom	Temperierte Laubwaldbiome	Laubabwerfende Wälder der temperaten Zone
+Bergwälder der temperaten Zone
+Alpine Vegetation der temperaten Zone
+Kühl-temperate bis polare Felsküsten
+Kontinentales Zonobiom	Temperierte Graslandbiome	Steppen und Prärien
+Wüsten der temperaten Zone
+Boreales Zonobiom	Nordische Kiefernwaldbiome	Boreale Wälder
+Polares Zonobiom	Tundra	Subarktische und arktische Vegetation
+Biome nach Whittaker und Haggett: Biomtypen und Landbiome
+Die Gliederung nach Zonobiomen geht mindestens zurück in das Jahr 1976[54] und wurde fast gleichzeitig auch im englischen Sprachraum vorgestellt.[55] Dort waren allerdings drei Jahre und fünf Jahre zuvor schon zwei andere Gliederungen für größere Biome veröffentlicht worden. Aus dem Jahr 1972 stammte die Gliederung des britischen Kulturgeographen Peter Haggett[77] und aus dem Jahr 1970 jene des US-amerikanischen Pflanzenökologen Robert Harding Whittaker.[13]
+
+Biomtypen
+Robert Harding Whittaker weist 25 Biomtypen aus. Im Vergleich mit der Zonobiom-Gliederung sind das fast dreimal so viele größere Biome. Der auffällige zahlenmäßige Unterschied beruht darauf, dass Whittaker einige Ökosysteme als eigenständige Biomtypen identifiziert, die von Walter und Breckle bloß als Oro- oder Psammobiome innerhalb der größeren Zonobiome eingeordnet werden. Hardings Lehrbuch erschien in zwei Auflagen[13][78] und hatte einigen Einfluss.[41] Ins Deutsche wurde es allerdings nicht übertragen.
+
+Biomtypen nach Robert Harding Whittaker[79]
+Biomtyp-Nummer	Biomtyp
+1	tropical rain forests
+2	tropical seasonal forests (deciduous/semideciduous)
+3	temperate giant rainforests
+4	other temperate rainforests
+5	temperate deciduous forests
+6	temperate evergreen forests
+7	subarctic-subalpin needle-leaved forests
+8	elfin woodlands
+9	thorn forests and woodlands
+10	thorn scrub
+11	temperate woodlands
+12	temperate shrublands
+13	savannas
+14	temperate grasslands
+15	alpine grasslands
+16	tundras
+17	tropical and subtropical deserts
+18	warm-temperate deserts
+19	cool-temperate desert scrub
+20	arctic-alpine deserts
+21	cool-temperate sphagnum bog
+22	tropical fresh-water swamp forests
+23	temperate fresh-water swamp forests
+24	mangrove swamps
+25	saltmarshes
+Landbiome
+Die Zonobiome von Walter und Breckle und auch die Biomtypen von Whittaker verharren in einem physiogeographischen, einem naturwissenschaftlichen Blickwinkel.[80] Der Blickwinkel umfasst das Makroklima, die Biozönose anhand der Vegetation und eventuell noch den vorherrschenden Bodentyp.[81][82] Hier geht Peter Haggett weiter. Denn Haggett hat auch das Wirken und Wirtschaften des Menschen im Blick. So weist er jedem seiner zwölf Landbiome traditionelle Landwirtschaftsformen und durchschnittliche Bevölkerungsdichten zu.[83] Außerdem versucht er – wie in ähnlicher Weise ein Jahrzehnt später auch deutsche Geographen[84] – von der naturräumlichen Ausstattung der Landbiome auf das Naturraumpotenzial zu schließen. Dazu bestimmt er ihre Produktivitätsklassen:[85][86]
+
+Peter Haggett erweiterte den Biom-Begriff um kulturgeographische Inhalte. Sein Ansatz fand jedoch selbst unter Geographen weit weniger Beachtung als die rein naturwissenschaftlichen Zonobiome[22][87] oder als das neuere und mit den Zonobiomen inhaltlich deckungsgleiche[23][48] Konzept der Ökozonen.[88][89][90]
+
+Landbiome nach Peter Haggett[85]
+Landbiomtyp	Landbiom	Vorherrschende Vegetation	Wesentliche Niederschlagscharakteristika	Wesentliche Temperaturcharakteristika
+Bewaldete Gebiete	Äquatorial	Breitblättriger, immergrüner Wald. Große Artenvielfalt. Sumpfwälder auf überfluteten Ebenen und Küsten.	Hohe Jahresniederschlagssummen (über 1000 mm).	Ganzjährig gleichförmig hohe Temperaturen.
+Periphere mittlere Breiten	Breitblättrige Laubwälder. Laubwälder mit Laubfall. Mischwälder, die an warme Landbiome grenzen. Immergrüne Wälder an der östlichen Peripherie.	Mäßige Jahresniederschlagssummen (750 mm bis 1000 mm).	Kühle bis warm-gemäßigte Jahresdurchschnittstemperaturen. Jahreszeitliche Temperaturschwankungen werden mit zunehmender kontinentaler Lage deutlicher.
+Boreal	Nadelwälder. Verhältnismäßig einförmige Standorte mit geringer Artenzahl, z. B. Fichte, Föhre, Kiefer, Lärche.	Geringe Jahresniederschlagssummen bei Sommermaximum (250 mm bis 500 mm).	Kurze kühle Sommer. Sehr große jahreszeitliche Temperaturschwankungen.
+Mischgebiete	Savanne	Offene Savannen mit hohem Gras bis zu laubabwerfendem Monsunwald. Galeriewald entlang der Flüsse.	Sehr unterschiedliche Jahresniederschlagssummen (250 mm bis 2000 mm) bei ausgeprägtem Frühjahrs- oder Sommermaximum.	Warme Jahresdurchschnittstemperaturen. Geringe jahreszeitliche Temperaturschwankungen.
+Mediterrane Gebiete	Immergrüne, trockenheitsresistente Hartholzbäume und -sträucher.	Geringe bis mäßige Jahresniederschlagssummen (500 mm bis 750 mm) bei ausgeprägter Sommertrockenheit.	Warm-gemäßigte Jahresdurchschnittstemperaturen. Mittlere jahreszeitliche Temperaturschwankungen.
+Grasland mittlerer Breiten	Prärie mit hohem Graswuchs bis Kurzgrassteppe – abhängig von der Feuchte des Gebiets	Geringe bis mäßige Jahresniederschlagssummen (300 mm bis 600 mm) bei Frühjahrs- oder Sommermaximum. Beträchtlich schwankende Niederschlagssummen von Jahr zu Jahr.	Sehr starke jahreszeitliche Temperaturschwankungen. Kalte Winter.
+Unfruchtbare Gebiete	Arid und Semiarid	Trockenheitsresistente Büsche. Salzwüsten. Vegetationsfreier Sand. Felswüsten.	Sehr geringe Jahresniederschlagssummen (0 mm bis 250 mm). Beträchtlich schwankende Niederschlagssummen von Jahr zu Jahr.	Sehr hohe Sommertemperaturen. Mäßige jahreszeitliche Temperaturschwankungen in den Tropen. Sehr große jahreszeitliche Temperaturschwankungen in den Mittelbreiten.
+Tundra	Niedrige krautartige Pflanzen. Moose und Flechten.	Geringe Jahresniederschlagssummen (100 mm bis 400 mm) bei Spätsommer- oder Herbstmaximum.	Strenge Kälte. Kurze, kühle Sommer.
+Polargebiete	Eiskappen. Kein pflanzliches Leben.	Geringer jährlicher Jahresniederschlagssummen.	Extreme Kälte. Keine Monatsdurchschnittstemperatur über 0 °C.
+Anthrome
+→ Hauptartikel: Anthropogenes Biom
+Aus dem zusammengesetzten Begriff „Anthropogenes Biom“ schufen die beiden amerikanischen Geographen Erle C. Ellis und Navin Ramankutty den Begriff „Anthrom“, den sie in ihrem 2008 veröffentlichten Biom-Modell verwenden. Hier liegt der Schwerpunkt auf dem Einfluss der menschlichen Landnutzung, da die Menschheit mittlerweile etwa ein Drittel der terrestrischen Nettoprimärproduktion verbraucht und mehr als 75 % der eisfreien Landoberfläche mehr oder weniger prägend beeinflusst. Globale Umweltveränderungen und Zukunftsszenarien bewerten die Ökosystemdienstleistungen der natürlichen Biome und der Anthrome. Alle Studien stellen negative Trends fest, die die Lebensgrundlage des Menschen bedrohen.
+
+Siehe auch
+Biosphäre
+Vegetationszone
+Biome im Klimawandel
+Hemerobie
+Literatur
+R. Abell, M. L. Thieme, C. Revenga, M. Bryer, M. Kottelat, N. Bogutskaya, B. Coad, N. Mandrak, S. Contreras Balderas, W. Bussing, M. L. J. Stiassny, P. Skelton, G. R. Allen, P. Unmack, A. Naseka, R. Ng, N. Sindorf, J. Robertson, E. Armijo, J. V. Higgins, T. J. Heibel, E. Wikramanayake, D. Olson, H. L. López, R. E. Reis, J. G. Lundberg, M. H. Sabaj Pérez, P. Petry: Freshwater Ecoregions of the World: A New Map of Biogeographic Units for Freshwater Biodiversity Conservation. In: BioScience. 58 (2008), S. 403–414. doi:10.1641/B580507 (PDF)
+G. Grabherr: Farbatlas Ökosysteme der Erde. Ulmer, Stuttgart 1997, ISBN 3-8001-3489-6.
+C. Körner: Populations- und Vegetationsökologie. In: Strasburger Lehrbuch der Botanik. Heidelberg 2008, ISBN 978-3-8274-1455-7, S. 1086–1119.
+E. P. Odum: Ökologie. Stuttgart 1999, ISBN 3-13-382303-5, S. 424–443.
+D. M. Olson, E. Dinerstein, E. Wikramanayake, N. Burgess, G. Powell, E. C. Underwood, J. d’Amico, I. Itoua, H. Strand, J. Morrison, C. Loucks, T. Allnutt, T. H. Ricketts, Y. Kura, W. Wettengel, K. Kassem: Terrestrial Ecoregions of the World: A New Map of Life on Earth. In: BioScience. 51 (2001), S. 933–938 doi:10.1641/0006-3568(2001)051[0933:TEOTWA]2.0.CO;2 (PDF)
+R. E. Rosiere: Range Types of North America – Literature Review – Biome. 2000–2009. (Artikel)
+R. Pott: Allgemeine Geobotanik. Berlin/ Heidelberg 2005, ISBN 3-540-23058-0, S. 353–398.
+H. Walter, S-W. Breckle: Ökologie der Erde, Band 1 · Grundlagen. Stuttgart 1991, ISBN 3-437-20454-8, S. 18–29.
+M. D. Spalding, H. E. Fox, G. R. Allen, N. Davidson, Z. A. Ferdana, M. Finlayson, B. S. Halpern, M. A. Jorge, A. Lombana, S. A. Lourie, K. D. Martin, E. McManus, J. Molnar, C. A. Recchia, J. Robertson: Marine Ecoregions of the World: A Bioregionalization of Coastal and Shelf Areas. In: BioScience. 57 (2007), S. 573–583 doi:10.1641/B570707 PDF
+Weblinks
+Wiktionary: Biom – Bedeutungserklärungen, Wortherkunft, Synonyme, Übersetzungen
+Einzelnachweise
+ Vgl. Online Etymology Dictionary: biome (englisch)
+ H. Kehl: Vegetationsökologie Tropischer & Subtropischer Klimate / LV-TWK (B.8), TU Berlin
+ Carl Beierkuhnlein u. Jan-Christopher Fischer: Global Biomes and Ecozones – Conceptual and Spatial Communalities and Discrepancies. In: Erdkunde. Band 75, Nr. 4, 2021 (erdkunde.uni-bonn.de PDF). ISSN 2702-5985, Zusammenfassung S. 249.
+ Vgl. C. Körner: Populations- und Vegetationsökologie. In: Strasburger Lehrbuch der Botanik. Heidelberg 2008, ISBN 978-3-8274-1455-7, S. 1073.
+ F. E. Clements: The development and structure of biotic communities. Ecological Society of America – New York meeting, December 27-29 (1916), Programmheft, S. 5.
+ V. E. Shelford: Basic principles on the classification of communities and habitats and the use of terms. In: Ecology. 13 (1932), S. 105–120.
+ F. E. Clements: Chaper 2. In: F. E. Clements, V. E. Shelford: Bio-Ecology. New York 1939.
+ R. J. Carpenter: The biome. In: American Midland Naturalist. 21 (1939), S. 75–91.
+ N. Polunin: Introduction to Plant Geography and Some Related Sciences. London 1960, S. 211.
+ E. P. Odum: Fundamentals of Ecology. Philadelphia 1971, S. 378.
+ S. H. Spurr, B. V. Barnes: Forest Ecology. New York 1980, S. 460–461.
+ zitiert nach Odum EP: Ökologie. Stuttgart 1999, ISBN 3-13-382303-5, S. 424.
+ R. H. Whittaker: Communities and Ecosystems. Toronto 1970.
+ H. Nolzen: Die Biozonen der Erde. In: H. Nolzen (Hrsg.): Geozonen. Köln 1995, S. 55.
+ H. Nolzen (Hrsg.): Geozonen. Köln 1995.
+ R. L. S. Patterson, B. V. Charlwood, A. A. Williams (Hrsg.): Bioformation of Flavours. Cambridge 1992.
+ J. A. M. de Bont: Bioformation of optically pure epoxides. In: Tetrahedron: Asymmetry. 4 (1993), S. 1331.
+ J. A. Helms (Hrsg.): The Dictionary of Forestry. Bethesda 1998.
+ N. A. Campbell: Biologie. Heidelberg 1997, S. 1160.
+ N. A. Campbell, J. B. Reec: Biologie. München 2006, S. 1322.
+ J. Schultz: Die Ökozonen der Erde. Stuttgart 1988, S. 5–10.
+ H. Nolzen: Einführender Teil. In: H. Nolzen (Hrsg.): Geozonen. Köln 1995, S. 7.
+ J. Schultz: Konzept einer ökozonalen Gliederung der Erde. In: Geographische Rundschau. 52 (2000), S. 4.
+ A. Kratochwil, A. Schwabe: Ökologie der Lebensgemeinschaften. Stuttgart 2001, ISBN 3-8252-8199-X, S. 76–77.
+ D. M. Olson, E. Dinerstein, E. Wikramanayake, N. Burgess, G. Powell, E. C. Underwood, J. d’Amico, I. Itoua, H. Strand, J. Morrison, C. Loucks, T. Allnutt, T. H. Ricketts, Y. Kura, W. Wettengel, K. Kassem: Terrestrial Ecoregions of the World: A New Map of Life on Earth. In: BioScience. 51 (2001), S. 934 doi:10.1641/0006-3568(2001)051[0933:TEOTWA]2.0.CO;2 (pdf)
+ J. Schultz: Die Ökozonen der Erde. Stuttgart 2008, S. 20.
+ Schroeder F-G: Lehrbuch der Pflanzengeographie. Wiesbaden 1998, ISBN 3-8252-8143-4, S. 56–60.
+ R. Pott: Die Pflanzengesellschaften Deutschlands. Stuttgart 1995, ISBN 3-8252-8067-5, S. 528.
+ C. Körner: Populations- und Vegetationsökologie. In: Strasburger Lehrbuch der Botanik. Heidelberg 2008, ISBN 978-3-8274-1455-7, S. 1104.
+ H. Walter, S-W. Breckle: Ökologie der Erde, Band 1 · Grundlagen. Stuttgart 1991, S. 23,25, ISBN 3-437-20454-8.
+ I. Kronberg: Ökologie der Naturräume. In: K. Munk (Hrsg.): Grundstudium Biologie. Biochemie, Zellbiologie, Ökologie, Evolution. Heidelberg /Berlin 2000, ISBN 3-8274-0910-1, S. 17–2.
+ A. Kratochwil, A. Schwabe: Ökologie der Lebensgemeinschaften. Stuttgart 2001, ISBN 3-8252-8199-X, S. 77.
+ H. Walter, S-W. Breckle: Ökologie der Erde, Band 1 · Grundlagen. Stuttgart 1991, ISBN 3-437-20454-8, S. 22.
+ E. P. Odum: Ökologie. Stuttgart 1999, ISBN 3-13-382303-5, S. 425.
+ W. Frey, R. Lösch: Lehrbuch der Geobotanik. München 2004, ISBN 3-8274-1193-9, S. 349.
+ C. Körner: Populations- und Vegetationsökologie. In: Strasburger Lehrbuch der Botanik. Heidelberg 2008, ISBN 978-3-8274-1455-7, S. 1086.
+ E. P. Odum: Ökologie. Stuttgart 1999, ISBN 3-13-382303-5, S. 424.
+ E. P. Odum: Ökologie. Stuttgart 1999, ISBN 3-13-382303-5, S. 425.
+ R. H. Whittaker: Communities and Ecosystems. Toronto, 1970, S. 52.
+ I. Kronberg: Ökologie der Naturräume. In: K. Munk (Hrsg.): Grundstudium Biologie. Biochemie, Zellbiologie, Ökologie, Evolution. Heidelberg/ Berlin 2000, ISBN 3-8274-0910-1, S. 17–1.
+ E. P. Odum: Ökologie. Stuttgart 1999, ISBN 3-13-382303-5, S. 424.
+ I. Kronberg: Ökologie der Naturräume. In: K. Munk (Hrsg.): Grundstudium Biologie. Biochemie, Zellbiologie, Ökologie, Evolution. Heidelberg/ Berlin 2000, ISBN 3-8274-0910-1, S. 17–1.
+ D. M. Olson, E. Dinerstein, E. Wikramanayake, N. Burgess, G. Powell, E. C. Underwood, J. d’Amico, I. Itoua, H. Strand, J. Morrison, C. Loucks, T. Allnutt, T. H. Ricketts, Y. Kura, W. Wettengel, K. Kassem: Terrestrial Ecoregions of the World: A New Map of Life on Earth. In: BioScience. 51 (2001), S. 935 doi:10.1641/0006-3568(2001)051[0933:TEOTWA]2.0.CO;2 (pdf)
+ H. Walter, S-W. Breckle: Ökologie der Erde, Band 1 · Grundlagen. Stuttgart 1991, ISBN 3-437-20454-8, S. 27.
+ H. Walter, S-W. Breckle: Ökologie der Erde, Band 1 · Grundlagen. Stuttgart 1991, ISBN 3-437-20454-8.
+ W. Frey, R. Lösch: Lehrbuch der Geobotanik. München 2004, ISBN 3-8274-1193-9, S. 348–349.
+ R. Pott: Allgemeine Geobotanik. Berlin/ Heidelberg 2005, ISBN 3-540-23058-0, S. 353.
+ H. Nolzen: Einführender Teil. In: H. Nolzen (Hrsg.): Geozonen. Köln 1995, S. 7.
+ H. Walter, S-W. Breckle: Ökologie der Erde, Band 1 · Grundlagen. Stuttgart 1991, S. 25,27, ISBN 3-437-20454-8.
+ B. Eitel: Bodengeographie. Braunschweig 1999, ISBN 3-14-160281-6, S. 75–76, XI-XIII.
+ B. Eitel: Bodengeographie. Braunschweig 1999, ISBN 3-14-160281-6, S. 18.
+ H. Nolzen: Einführender Teil. In: H. Nolzen (Hrsg.): Geozonen. Köln 1995, S. 5.
+ H. Walter, S-W. Breckle: Ökologie der Erde, Band 1 · Grundlagen. Stuttgart 1991, ISBN 3-437-20454-8, S. 18–29.
+ H. Walter: Die ökologischen Systeme der Kontinente (Biogeosphäre) · Prinzipien ihrer Gliederung mit Beispielen. Stuttgart 1976.
+ H. Walter, E. Box: Global classification of natural terrestrial ecosystems. In: Plant Ecology. 32 (1976), S. 75.
+ H. Nolzen: Einführender Teil. In: H. Nolzen (Hrsg.): Geozonen. Köln 1995, S. 5.
+ H. Walter, S-W. Breckle: Ökologie der Erde, Band 1 · Grundlagen. Stuttgart 1991, ISBN 3-437-20454-8, S. 16.
+ C. Körner: Populations- und Vegetationsökologie. In: Strasburger Lehrbuch der Botanik. Heidelberg 2008, ISBN 978-3-8274-1455-7, S. 1087.
+ H. Walter, S-W. Breckle: Ökologie der Erde, Band 1 · Grundlagen. Stuttgart 1991, ISBN 3-437-20454-8, S. 24.
+ H. Walter, S-W. Breckle: Ökologie der Erde, Band 1 · Grundlagen. Stuttgart 1991, ISBN 3-437-20454-8, S. 25–26.
+ H. Walter, S-W. Breckle: Ökologie der Erde, Band 1 · Grundlagen. Stuttgart 1991, S. 24,27, ISBN 3-437-20454-8.
+ H. Walter, S-W. Breckle: Ökologie der Erde, Band 1 · Grundlagen. Stuttgart 1991, ISBN 3-437-20454-8, S. 25.
+ H. Walter, S-W. Breckle: Ökologie der Erde, Band 1 · Grundlagen. Stuttgart 1991, ISBN 3-437-20454-8, S. 31.
+ F. Grüninger: Keine Landschaftseinheiten ohne Grenzen! In: Geographische Rundschau. 63 (2011), S. 4–11.
+ H. Walter, S-W. Breckle: Ökologie der Erde, Band 1 · Grundlagen. Stuttgart 1991, ISBN 3-437-20454-8, S. 25.
+ H. Walter, S-W. Breckle: Ökologie der Erde, Band 1 · Grundlagen. Stuttgart 1991, ISBN 3-437-20454-8, S. 18.
+ H. Nolzen: Einführender Teil. In: H. Nolzen (Hrsg.): Geozonen. Köln 1995, S. 5.
+ H. Walter, S-W. Breckle: Ökologie der Erde, Band 1 · Grundlagen. Stuttgart 1991, ISBN 3-437-20454-8, S. 31.
+ J. Schultz: Die Ökozonen der Erde. Stuttgart 1988, S. 130, 242.
+ H. Walter, S-W. Breckle: Ökologie der Erde, Band 1 · Grundlagen. Stuttgart 1991, ISBN 3-437-20454-8, S. 23.
+ J. Schultz: Die Ökozonen der Erde. Stuttgart 2008, S. 350–351.
+ J. Schultz: Konzept einer ökozonalen Gliederung der Erde. In: Geographische Rundschau. 52 (2000), S. 8.
+ H. Walter, S-W. Breckle: Ökologie der Erde, Band 1 · Grundlagen. Stuttgart 1991, ISBN 3-437-20454-8, S. 25.
+ H. Walter, S-W. Breckle: Ökologie der Erde, Band 1 · Grundlagen. Stuttgart 1991, ISBN 3-437-20454-8, S. 25.
+ E. P. Odum: Ökologie. Stuttgart 1999, ISBN 3-13-382303-5, S. 424–443.
+ C. Körner: Populations- und Vegetationsökologie. In: Strasburger Lehrbuch der Botanik. Heidelberg 2008, ISBN 978-3-8274-1455-7, S. 1086–1119.
+ P. Haggett: Geography · A Modern Synthesis. New York 1972.
+ R. H. Whittaker: Communities and Ecosystems. London, 1975.
+ R. H. Whittaker: Communities and Ecosystems. Toronto 1970, S. 51–64.
+ H. Nolzen: Einführender Teil. In: H. Nolzen (Hrsg.): Geozonen. Köln 1995, S. 3.
+ H. Nolzen: Einführender Teil. In: H. Nolzen (Hrsg.): Geozonen. Köln 1995, S. 10,55.
+ H. Walter, S-W. Breckle: Ökologie der Erde, Band 1 · Grundlagen. Stuttgart 1991, ISBN 3-437-20454-8, S. 25.
+ P. Haggett: Geographie · Eine moderne Synthese. New York 1983, S. 129.
+ H-J. Klink, R. Glawion: Die natürlichen Vegetationsformationen der Erde. In: Geographische Rundschau. 34 (1982), S. 461–470.
+ P. Haggett: Geographie · Eine moderne Synthese. New York 1983, S. 128–129.
+ S. S. Paterson: The forest area of the world and its potential productivity. Goteborg 1956, S. 54.
+ H. Walter, S-W. Breckle: Vegetation und Klimazonen. Stuttgart 1999, S. 133–477.
+ J. Schultz: Ökozonen. Stuttgart 1988.
+ J. Schultz: Konzept einer ökozonalen Gliederung der Erde. In: Geographische Rundschau. 52 (2000), S. 4–11.
+ J. Schultz: Ökozonen. Stuttgart 2010.
+Kategorie: Biogeographie
+Navigationsmenü
+Nicht angemeldet
+Diskussionsseite
+Beiträge
+Benutzerkonto erstellen
+Anmelden
+ArtikelDiskussion
+LesenBearbeitenQuelltext bearbeitenVersionsgeschichte
+Wikipedia durchsuchen
+Hauptseite
+Themenportale
+Zufälliger Artikel
+Mitmachen
+Artikel verbessern
+Neuen Artikel anlegen
+Autorenportal
+Hilfe
+Letzte Änderungen
+Kontakt
+Spenden
+Werkzeuge
+Links auf diese Seite
+Änderungen an verlinkten Seiten
+Spezialseiten
+Permanenter Link
+Seiten­informationen
+Artikel zitieren
+Wikidata-Datenobjekt
+Drucken/​exportieren
+Als PDF herunterladen
+Druckversion
+In anderen Projekten
+Commons
+
+In anderen Sprachen
+Беларуская
+English
+Español
+हिन्दी
+Polski
+Русский
+Українська
+اردو
+中文
+35 weitere
+Links bearbeiten
+Diese Seite wurde zuletzt am 26. Februar 2023 um 21:20 Uhr bearbeitet.
+Abrufstatistik · Autoren
+
+Der Text ist unter der Lizenz „Creative Commons Attribution/Share Alike“ verfügbar; Informationen zu den Urhebern und zum Lizenzstatus eingebundener Mediendateien (etwa Bilder oder Videos) können im Regelfall durch Anklicken dieser abgerufen werden. Möglicherweise unterliegen die Inhalte jeweils zusätzlichen Bedingungen. Durch die Nutzung dieser Website erklären Sie sich mit den Nutzungsbedingungen und der Datenschutzrichtlinie einverstanden.
+Wikipedia® ist eine eingetragene Marke der Wikimedia Foundation Inc.
+DatenschutzÜber WikipediaImpressumMobile AnsichtEntwicklerStatistikenStellungnahme zu CookiesWikimedia FoundationPowered by MediaWiki

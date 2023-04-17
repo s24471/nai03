@@ -1,0 +1,314 @@
+
+Język duński
+dansk
+Obszar	
+Dania, Niemcy, Wyspy Owcze, Grenlandia i inne
+
+Liczba mówiących	
+6 milionów
+
+Pismo/alfabet	
+łacińskie
+
+Klasyfikacja genetyczna
+Języki indoeuropejskie
+Języki germańskie
+Języki północnogermańskie
+Język duński
+Status oficjalny
+język urzędowy	Dania, Grenlandia, Wyspy Owcze, jeden z urzędowych w Unii Europejskiej
+Organ regulujący	Dansk Sprognævn
+Ethnologue	1 narodowy↗
+Kody języka
+Kod ISO 639-1↗	da
+Kod ISO 639-2↗	dan
+Kod ISO 639-3↗	dan
+IETF	da
+Glottolog	dani1284, dani1285
+Ethnologue	dan
+GOST 7.75–97	дат 178
+WALS	dsh
+SIL	DNS
+Występowanie
+Ilustracja
+W Wikipedii
+Zobacz też: język, języki świata
+	Wikipedia w języku duńskim
+	Słownik języka duńskiego
+w Wikisłowniku
+Ta strona zawiera symbole fonetyczne MAF. Bez właściwego wsparcia renderowania wyświetlane mogą być puste prostokąty lub inne symbole zamiast znaków Unikodu.
+Język duński (duń. dansk, det danske sprog) – język z grupy skandynawskiej języków germańskich. Posługuje się nim około 5,2 mln mówiących[1], głównie w Danii i Szlezwiku w północnych Niemczech (ok. 50 tys. osób). Duński w charakterze języka urzędowego używany jest w Danii a także na Wyspach Owczych. W Islandii, która aż do 1944 r. była posiadłością Danii, duński jest nauczany jako jeden z głównych języków obcych, obok angielskiego, norweskiego i szwedzkiego.
+
+
+Spis treści
+1	Historia
+2	Gramatyka
+3	Ortografia
+4	Odmiany
+5	Zobacz też
+6	Przypisy
+7	Linki zewnętrzne
+Historia
+Najstarsze zapisy runiczne pochodzą z V w., natomiast zabytki języka duńskiego w alfabecie łacińskim pochodzą z końca XIII w. (ustawy Skanske Lov i Jyske Lov). Można wyróżnić 3 główne dialekty: jutlandzki, zelandzki i fioński, przy czym standardowy język duński, tzw. rigsmål, powstał w XVII w. na bazie dialektu zelandzkiego.
+
+Gramatyka
+ Osobny artykuł: Gramatyka języka duńskiego.
+Gramatyka duńska jest zbliżona do gramatyki pozostałych kontynentalnych języków skandynawskich, tj. szwedzkiego i norweskiego, z którymi wspólnie ewoluowała. Mniejsze, choć wciąż wyraźnie zauważalne, jest podobieństwo do języków skandynawskich wyspiarskich (tj. islandzkiego i farerskiego), które zachowały więcej z języka staronordyckiego. Równie widoczne jest wyraźne pokrewieństwo z pozostałymi językami germańskimi, w tym angielskim i niemieckim.
+
+Gramatyka duńska charakteryzuje się dużą prostotą, szczególnie widoczną przy porównaniu z formami staronordyckimi. Niemal całkowicie zanikła deklinacja i większość form koniugacyjnych.
+
+Ortografia
+ Osobny artykuł: Alfabet duńsko-norweski.
+
+Litery alfabetu duńskiego na klawiaturze komputera
+Charakterystyczne dla języka duńskiego litery to Æ/æ, Ø/ø oraz Å/å[1] (ta ostatnia zapisywana przed reformą ortografii z roku 1948 jako Aa/aa[2]; taka pisownia pozostała w przypadku niektórych nazwisk i nazw miast, np. Aalborg[3]). Wyrazy zaczynające się na te litery znajdują się na końcu słowników i książek telefonicznych[2].
+
+Przed wspomnianą reformą ortografii rzeczowniki zapisywano dużą literą, podobnie jak dziś w języku niemieckim.
+
+Odmiany
+
+Występowanie jednego, dwóch oraz trzech rodzajów gramatycznych w duńskich dialektach. W Zelandii zaszło przejście od systemu trzyrodzajowego do dwurodzajowego. W dialektach znajdujących się na zachód od czerwonej linii rodzajnik określony występuje przed słowem określanym, podobnie jak w języku angielskim czy niemieckim, a na wschód od tej linii w formie końcówki danego słowa
+Duński język standardowy (duń. rigsdansk lub rigsmål) oparty jest na dialekcie miejskim Kopenhagi oraz jej okolic. W odróżnieniu od języka szwedzkiego oraz norweskiego, nie ma alternatywnych, regionalnych standardów językowych, dialekty obiegowe cechują się zaś niskim poważaniem społecznym. Ponad 20% użytkowników języka duńskiego mieszka w strefie stołecznej, tu mieści się także ogromna większość instytucji rządowych i większych przedsiębiorstw, działa tu także telewizja państwowa, wychodzą większe gazety, dzięki czemu dialekt miejski Kopenhagi oraz oparty na nim język literacki ma w społeczeństwie najwyższy prestiż.
+
+Wyróżnia się trzy główne grupy dialektów języka duńskiego:
+
+wschodnioduńskie (østdansk): dialekt Bornholmu;
+duńskie wyspiarskie (ødansk): dialekty Zelandii, Fionii, Lollandii, Falster oraz wyspy Møn
+jutlandzkie (jysk), dzielone następnie na wschodnio-, południowo-, zachodnio- i północnojutlandzkie.
+Z historycznego punktu widzenia do dialektów wschodnioduńskich zalicza się także dialekty południowe języka szwedzkiego. Wynika to z faktu, że aż do 1658 r. obszary Skanii, Blekinge oraz Hallandu należały do Danii i były zamieszkane przez ludność duńską. Później natomiast obszary te zostały zajęte przez Szwecję i obecnie znajdują się na terenie tego państwa.
+
+Zobacz też
+	Zobacz multimedia związane z tematem: Język duński
+	Zobacz hasło duński w Wikisłowniku
+literatura duńska
+Duńczycy
+alfabet duński
+stød
+Wikipedia duńskojęzyczna
+Przypisy
+ Wojciech Walczak: Dania. Warszawa: PWN, 1984, s. 59. ISBN 83-01-05182-5.
+ Robin Allan: Danish. An essential grammar. Londyn i Nowy Jork: Routledge, 2000, s. 185. ISBN 0-203-97876-5.
+ Christian Becker-Christensen: Politikens Nudansk Ordbog med etymologi. T. II. Kopenhaga: Politikens Forlag, 2000, s. 1592. ISBN 87-567-6087-6. (duń.).
+Linki zewnętrzne
+Gramatyka języka duńskiego
+pde
+Języki germańskie
+pde
+Języki Unii Europejskiej
+Kontrola autorytatywna (język):LCCN: sh85035731GND: 4113262-2NDL: 00561388BnF: 119318405BNCF: 31NKC: ph119684J9U: 987007543246305171LNB: 000048561
+Encyklopedia internetowa: PWN: 3894944 Britannica: topic/Danish-language БРЭ: 1941632 NE.se: danska Nacionālā enciklopēdija: 115259 Store norske leksikon: dansk
+Kategorie: Język duńskiJęzyki skandynawskieJęzyki DaniiJęzyki NiemiecJęzyki NorwegiiJęzyki SzwecjiJęzyki IslandiiJęzyki Wysp OwczychJęzyki Grenlandii
+Menu nawigacyjne
+Nie jesteś zalogowany
+Dyskusja
+Edycje
+Utwórz konto
+Zaloguj się
+ArtykułDyskusja
+CzytajEdytujEdytuj kod źródłowyHistoria i autorzy
+Przeszukaj Wikipedię
+Strona główna
+Losuj artykuł
+Kategorie artykułów
+Najlepsze artykuły
+Częste pytania (FAQ)
+Dla czytelników
+O Wikipedii
+Zgłoś błąd
+Kontakt
+Wspomóż Wikipedię
+Dla wikipedystów
+Pierwsze kroki
+Portal wikipedystów
+Ogłoszenia
+Zasady
+Pomoc
+Ostatnie zmiany
+Narzędzia
+Linkujące
+Zmiany w linkowanych
+Prześlij plik
+Strony specjalne
+Link do tej wersji
+Informacje o tej stronie
+Cytowanie tego artykułu
+Element Wikidanych
+Drukuj lub eksportuj
+Utwórz książkę
+Pobierz jako PDF
+Wersja do druku
+W innych projektach
+Wikimedia Commons
+Wikipodróże
+
+W innych językach
+Acèh
+Адыгэбзэ
+Afrikaans
+Alemannisch
+አማርኛ
+Anarâškielâ
+Ænglisc
+Аԥсшәа
+العربية
+Aragonés
+Arpetan
+Asturianu
+Azərbaycanca
+تۆرکجه
+বাংলা
+Bân-lâm-gú
+Башҡортса
+Беларуская
+Беларуская (тарашкевіца)
+Български
+Bosanski
+Brezhoneg
+Català
+Чӑвашла
+Cebuano
+Čeština
+Corsu
+Cymraeg
+Dansk
+Davvisámegiella
+Deutsch
+Dolnoserbski
+Eesti
+Ελληνικά
+Emiliàn e rumagnòl
+English
+Эрзянь
+Español
+Esperanto
+Euskara
+فارسی
+Fiji Hindi
+Føroyskt
+Français
+Frysk
+Gaeilge
+Gaelg
+Gagauz
+Gàidhlig
+Galego
+客家語/Hak-kâ-ngî
+Хальмг
+한국어
+Հայերեն
+हिन्दी
+Hornjoserbsce
+Hrvatski
+Ido
+Ilokano
+Bahasa Indonesia
+Interlingua
+Ирон
+Íslenska
+Italiano
+עברית
+Jawa
+Kalaallisut
+Kapampangan
+ქართული
+Қазақша
+Kernowek
+Kiswahili
+Коми
+Kotava
+Kurdî
+Кыргызча
+Latgaļu
+Latina
+Latviešu
+Lëtzebuergesch
+Lietuvių
+Ligure
+Limburgs
+Lingua Franca Nova
+Livvinkarjala
+Lombard
+Magyar
+Македонски
+Malagasy
+മലയാളം
+मराठी
+მარგალური
+مصرى
+Bahasa Melayu
+ꯃꯤꯇꯩ ꯂꯣꯟ
+閩東語 / Mìng-dĕ̤ng-ngṳ̄
+Мокшень
+မြန်မာဘာသာ
+Nederlands
+Nedersaksies
+日本語
+Нохчийн
+Nordfriisk
+Norfuk / Pitkern
+Norsk bokmål
+Norsk nynorsk
+Occitan
+Олык марий
+Oʻzbekcha / ўзбекча
+ਪੰਜਾਬੀ
+پنجابی
+Papiamentu
+پښتو
+ភាសាខ្មែរ
+Picard
+Piemontèis
+Tok Pisin
+Plattdüütsch
+Português
+Qaraqalpaqsha
+Qırımtatarca
+Română
+Runa Simi
+Русиньскый
+Русский
+Саха тыла
+Gagana Samoa
+ᱥᱟᱱᱛᱟᱲᱤ
+سرائیکی
+Sardu
+Scots
+Seeltersk
+Shqip
+Simple English
+Slovenčina
+Slovenščina
+کوردی
+Српски / srpski
+Srpskohrvatski / српскохрватски
+Suomi
+Svenska
+Tagalog
+தமிழ்
+Taqbaylit
+Татарча / tatarça
+ไทย
+Тоҷикӣ
+Türkçe
+Удмурт
+Українська
+اردو
+ئۇيغۇرچە / Uyghurche
+Vèneto
+Vepsän kel’
+Tiếng Việt
+Volapük
+Walon
+West-Vlams
+Winaray
+吴语
+ייִדיש
+粵語
+Zazaki
+Žemaitėška
+中文
+अंगिका
+Edytuj linki
+Tę stronę ostatnio edytowano 6 kwi 2023, 18:51.
+Tekst udostępniany na licencji Creative Commons: uznanie autorstwa, na tych samych warunkach, z możliwością obowiązywania dodatkowych ograniczeń. Zobacz szczegółowe informacje o warunkach korzystania.
+Polityka prywatnościO WikipediiKorzystasz z Wikipedii tylko na własną odpowiedzialnośćWersja mobilnaDla deweloperówStatystykiKomunikat na temat ciasteczekWikimedia FoundationPowered by MediaWiki

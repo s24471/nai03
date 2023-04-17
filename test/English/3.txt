@@ -1,0 +1,88 @@
+Main menu
+
+WikipediaThe Free Encyclopedia
+Search Wikipedia
+Create account
+Log in
+
+Personal tools
+Contents hide
+(Top)
+Types
+Toggle Types subsection
+Electric
+Drapery
+Clouds
+Set
+Storage
+See also
+References
+Batten (theater)
+
+Article
+Talk
+Read
+Edit
+View history
+
+Tools
+From Wikipedia, the free encyclopedia
+
+This article needs additional citations for verification. Please help improve this article by adding citations to reliable sources. Unsourced material may be challenged and removed.
+Find sources: "Batten" theater – news · newspapers · books · scholar · JSTOR (April 2011) (Learn how and when to remove this template message)
+
+A simple Electric batten with two instruments (a Source Four PAR and a scoop).
+In theaters, a batten (also known as a bar or pipe) is a long metal pipe suspended above the stage or audience from which lighting fixtures, theatrical scenery, and theater drapes and stage curtains may be hung. Battens that are located above a stage can usually be lowered to the stage (flown in) or raised into a fly tower above the stage (flown out) by a fly system.
+
+Types
+
+A view of an electric batten with scoops, fresnels, PARNels, elipsoidals and a Source Four
+Electric
+An electric is a batten that incorporates electrical cables above the pipe, often enclosed in a raceway. It typically has power cables for lights and DMX512 data cable for lighting control, and may also have audio cables for microphones. The cables emerge from one end of the batten and continue through a snake to dimmers, control boards, or patchbays. All cable plugs have identifying numbers printed on them so that they can be easily referenced by the lighting control system. Loaded electrics are among the heaviest types of battens, often weighing more than a thousand pounds.
+
+Electrics will often employ large loops of spring steel that extend outward to prevent adjacent battens from colliding with and damaging the lighting instruments. Electrics generally have an established trim height (a reference for standard height) so that focusing is consistent.[clarification needed] In some theaters, especially where battens are close together, a heat-resistant fabric is attached to the front of the electric to prevent heat from the lighting instruments from damaging nearby flown objects.
+
+Drapery
+A drapery pipe may support front curtains (such as travelers), tormentor legs, borders, or tabs. Stage-width drapes can be very heavy, weighing hundreds of pounds, especially the front curtain. Legs or borders are usually lighter as they may use less fabric and are not usually very thick and sewn without fullness.
+
+Clouds
+Many theaters have built in shells designed to reflect sound produced on stage back into the audience. These shells often include large folding panels which can be flown in.
+
+Set
+Elements of the set which are relatively flat or light can be flown in on battens.
+
+Storage
+Some theatres use spare battens to store unneeded scenery or lighting instruments. This practice is generally discouraged due to the hazard created by overhead storage.
+
+See also
+Rig (stage lighting)
+Fly system
+Fly captain
+References
+Holloway, John (2010). Illustrated Theatre Production Guide. Burlington, MA: Elsevier Science & Technology. ISBN 978-0-240-81204-5.
+vte
+Stagecraft and scenography
+Scene shop
+Theatrical
+scenery	
+Fields	
+Set constructionScenic paintingScenic designRiggingTechnical direction
+Hardware	
+BattenCurtainsFlatsFly systemPlatformsScenery wagonsWeights
+Stage lighting	
+Fields	
+Lighting designLighting technicianMaster electrician
+Hardware	
+Barn doorsC-clampColor gelColor scrollerCycloramaGoboLighting control consoleSocapex connectorStage pin connectorTop hatTheatrical smoke and fog
+Instruments	
+Beam projectorEllipsoidal reflector spotlightFresnel lanternIntelligent lightingParabolic aluminized reflector lightScoopStriplightSpotlightAccessories
+Stage
+management	
+BlockingCuePrompt cornerPrompt book
+Other fields	
+Costume designRunning crewSound designPropTheatrical makeupVideo design
+ Outline
+Category: Fly system
+This page was last edited on 20 December 2020, at 23:50 (UTC).
+Text is available under the Creative Commons Attribution-ShareAlike License 3.0; additional terms may apply. By using this site, you agree to the Terms of Use and Privacy Policy. Wikipedia® is a registered trademark of the Wikimedia Foundation, Inc., a non-profit organization.
+Privacy policyAbout WikipediaDisclaimersContact WikipediaMobile viewDevelopersStatisticsCookie statementWikimedia FoundationPowered by MediaWikiToggle limited content width

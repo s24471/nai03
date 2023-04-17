@@ -1,0 +1,604 @@
+
+[elrejt]
+Bővítsd te is a roma kultúrával kapcsolatos ismereteket a magyar Wikipédián!
+
+Szeretnéd a környező országok kultúráját megismerni? Március 21. és május 31. között újra kipróbálhatod magad a CEE Tavasz szócikkíró versenyen!
+
+Exponenciális függvény
+A Wikipédiából, a szabad enciklopédiából
+Az exponenciális függvény az egyik legfontosabb függvény a matematikában. Szokásos jelölése ex vagy exp(x), ahol e egy matematikai állandó, a természetes alapú logaritmus alapja, értéke körülbelül 2,718281828, és Euler-féle számnak is szokták hívni. Alapvető jelentőséggel bír mind a matematika elméletében, mind a mérnöki, pénzügyi, közgazdaságtani stb. alkalmazásokban.
+
+Általában az exponenciális függvény fogalmát általánosabban használják és kiterjesztik az összes kax alakú függvényre, ahol az a szám az alap, amely bármely pozitív valós szám lehet az egy kivételével (tehát a∈R+\{1}), de határozott névelővel ellátva („az exponenciális függvény”) mindig az e alapú exponenciális függvényt jelenti (e szócikk is utóbbit tárgyalja először).
+
+
+Az exponenciális függvény görbéje, x=0-nál értéke 1, y értéke minden pontban egyenlő a görbe meredekségével. A görbe nem érinti a vízszintes tengelyt.
+Valós x változóra az y=ex függvény görbéje mindig pozitív (az x tengely fölött helyezkedik el) és növekvő (balról jobbra nézve). Soha nem érinti az x tengelyt, de tetszőlegesen megközelíti, így az x tengely a görbének vízszintes aszimptotája. Inverz függvénye a természetes logaritmus függvény, az ln(x), mely az összes pozitív x-re értelmezett.
+
+Általában az x változó tetszőleges valós vagy komplex szám lehet, sőt más, teljesen eltérő matematikai objektum is.
+
+
+Tartalomjegyzék
+1	Tulajdonságok
+2	Deriválás és differenciálegyenletek
+3	Formális definíció
+4	Numerikus értékek
+5	Források
+6	Kapcsolódó szócikkek
+Tulajdonságok
+Legegyszerűbben az mondható, hogy az exponenciális függvény állandó mértékben többszöröződik. Például egy baktériumkultúra, amely „minden órában megduplázódik” hozzávetőlegesen exponenciális függvénnyel írható le (a diszkrét problémát folytonossá absztrahálva), ugyanúgy, mint egy autó értéke, amely minden évben 10%-kal csökken.
+
+A természetes logaritmus segítségével általánosabb exponenciális függvények definiálhatók. A
+
+ 
+ 
+=
+(
+ 
+ln
+⁡
+ 
+)
+ 
+=
+ 
+ 
+ln
+⁡
+ 
+{\displaystyle \,\!\,a^{x}=(e^{\ln a})^{x}=e^{x\ln a}}
+függvény minden a > 0-ra és minden valós x-re értelmezve van, ezt az a alapú exponenciális függvénynek nevezik. Megjegyzendő, hogy bár az 
+ 
+ 
+{\displaystyle \,a^{x}} ezen definíciója az előbb valós számokra definiált 
+ 
+ 
+{\displaystyle \,e^{x}} függvényen alapszik, ettől független definíció is adható.
+
+Megjegyzendő, hogy a fenti egyenlet teljesül a = e-re is, mivel
+
+ 
+ 
+ln
+⁡
+ 
+=
+ 
+ 
+⋅
+1
+=
+ 
+ 
+.
+{\displaystyle \,\!\,e^{x\ln e}=e^{x\cdot 1}=e^{x}.}
+Az exponenciális függvény néhány tulajdonsága:
+
+ 
+0
+=
+1
+{\displaystyle \,\!\,a^{0}=1}
+ 
+1
+=
+ 
+{\displaystyle \,\!\,a^{1}=a}
+ 
+ 
++
+ 
+=
+ 
+ 
+ 
+ 
+{\displaystyle \,\!\,a^{x+y}=a^{x}a^{y}}
+ 
+ 
+ 
+=
+(
+ 
+ 
+)
+ 
+{\displaystyle \,\!\,a^{xy}=\left(a^{x}\right)^{y}}
+1
+ 
+ 
+=
+(
+1
+ 
+)
+ 
+=
+ 
+−
+ 
+{\displaystyle \,\!\,{1 \over a^{x}}=\left({1 \over a}\right)^{x}=a^{-x}}
+ 
+ 
+ 
+ 
+=
+(
+ 
+ 
+)
+ 
+{\displaystyle \,\!\,a^{x}b^{x}=(ab)^{x}}
+Ezek az azonosságok igazak minden pozitív valós a és b számra és minden valós x és y-ra. A törtet és gyökvonást tartalmazó kifejezések egyszerűbbé tehetők az exponenciális jelölés bevezetésével:
+
+1
+ 
+=
+ 
+−
+1
+{\displaystyle \,{1 \over a}=a^{-1}}
+és minden a > 0, valós számra b valós számra és n > 1 egész számra:
+
+ 
+ 
+ 
+=
+(
+ 
+ 
+)
+ 
+=
+ 
+ 
+/
+ 
+.
+{\displaystyle \,{\sqrt[{n}]{a^{b}}}=\left({\sqrt[{n}]{a}}\right)^{b}=a^{b/n}.}
+Deriválás és differenciálegyenletek
+Az exponenciális függvény fontossága a matematikában és egyéb tudományokban a deriváltjának tulajdonságai révén jelentkezik. Nevezetesen:
+
+d
+d
+⁡
+ 
+ 
+ 
+=
+ 
+ 
+{\displaystyle {\frac {\mathop {\text{d}} }{\mathop {\text{d}} x}}e^{x}=e^{x}}
+Vagyis az 
+ 
+ 
+{\displaystyle e^{x}} deriváltja saját maga. Pontosan a 
+ 
+ 
+ 
+{\displaystyle ce^{x}} alakú függvények (c konstans) azok, amelyeknek megvan ez a tulajdonsága. Ez más szóval azt jelenti, hogy:
+
+A görbe meredeksége minden pontban megegyezik a függvény értékével abban a pontban.
+A növekedés mértéke x értéknél a függvény értékével egyenlő az x értéknél.
+A függvény kielégíti az 
+ 
+′
+=
+ 
+{\displaystyle \,y'=y} differenciálegyenletet.
+A függvény a differenciáloperátor sajátértéke.
+Igen sok differenciálegyenlet eredményez exponenciális függvényt, többek között a Schrödinger-egyenlet és a Laplace-egyenlet, valamint az egyszerű harmonikus rezgés. Igen sok esetben a keresett függvényt exponenciális függvény alakban is keressük, így a differenciálegyenlet egyes esetekben egyszerű algebrai egyenletté redukálható. Ez volt a motiváció a disztribúcióelmélet kialakulása mögött.
+
+Tetszőleges alapú exponenciális függvényre:
+
+d
+d
+⁡
+ 
+ 
+ 
+=
+(
+ln
+⁡
+ 
+)
+ 
+ 
+{\displaystyle {\frac {\mathop {\text{d}} }{\mathop {\text{d}} x}}a^{x}=(\ln a)a^{x}}
+Így bármely exponenciális függvény deriváltja egy konstans szorozva a függvénnyel.
+
+Ha a változó növekedésének vagy csökkenésének üteme arányos a méretével, akkor a változót egy állandó az idő exponenciális függvényének szorzataként írható fel. Erre példa a korlátozás nélküli népességnövekedés (lásd Malthus-féle katasztrófa) vagy a radioaktivitás csökkenése.
+
+Ezen kívül bármely differenciálható f(x) függvényre alkalmazható a láncszabály:
+
+d
+d
+⁡
+ 
+ 
+ 
+(
+ 
+)
+=
+ 
+′
+(
+ 
+)
+ 
+ 
+(
+ 
+)
+{\displaystyle {\frac {\mathop {\text{d}} }{\mathop {\text{d}} x}}e^{f(x)}=f'(x)e^{f(x)}}.
+Exponenciális függvény segítségével lehet egy függvény Laplace- és Fourier-transzformáltját meghatározni.
+
+Formális definíció
+Az exponenciális függvényt igen sokféleképpen lehet definiálni végtelen sorokkal, például a következő hatványfüggvénysorral:
+
+ 
+ 
+=
+∑
+ 
+=
+0
+∞
+ 
+ 
+ 
+!
+=
+1
++
+ 
++
+ 
+2
+2
+!
++
+ 
+3
+3
+!
++
+ 
+4
+4
+!
++
+⋯{\displaystyle \,e^{x}=\sum _{n=0}^{\infty }{x^{n} \over n!}=1+x+{x^{2} \over 2!}+{x^{3} \over 3!}+{x^{4} \over 4!}+\cdots }
+vagy az alábbi határértékkel:
+
+ 
+ 
+=
+lim
+ 
+→
+∞
+(
+1
++
+ 
+ 
+)
+ 
+.
+{\displaystyle \,e^{x}=\lim _{n\to \infty }\left(1+{x \over n}\right)^{n}.}
+Itt n! jelöli az n faktoriálist, x pedig bármely valós szám, komplex szám vagy a Banach-algebra eleme (például egy négyzetes mátrix) lehet.
+
+Ezeknek a definícióknak részletes magyarázatára lásd: Angol Wikipedia szócikke.
+
+Numerikus értékek
+Az exponenciális függvény értékének kiszámításához az alábbiak szerint érdemes átírni a végtelen sort:
+
+ 
+ 
+=
+1
+0
+!
++
+ 
+(
+1
+1
+!
++
+ 
+(
+1
+2
+!
++
+ 
+(
+1
+3
+!
++
+⋯
+)
+)
+)
+{\displaystyle \,e^{x}={1 \over 0!}+x\,\left({1 \over 1!}+x\,\left({1 \over 2!}+x\,\left({1 \over 3!}+\cdots \right)\right)\right)}
+=
+1
++
+ 
+1
+(
+1
++
+ 
+2
+(
+1
++
+ 
+3
+(
+1
++
+⋯
+)
+)
+)
+{\displaystyle \,=1+{x \over 1}\left(1+{x \over 2}\left(1+{x \over 3}\left(1+\cdots \right)\right)\right)}
+A fenti kifejezés az exponenciális, 
+ 
+ 
+{\displaystyle e^{x}} , függvény Maclaurin-sora, a maradéktag pedig:
+ 
+ 
+(
+ 
+)
+{\displaystyle R_{n}(x)} = 
+ 
+Θ
+ 
+(
+ 
++
+1
+)
+!
+{\displaystyle {\frac {e^{\Theta x}}{(n+1)!}}}
+ 
+ 
++
+1
+{\displaystyle x^{n+1}} (0 < θ < 1) .
+Az első kifejezés gyorsan konvergál, ha x kisebb egynél. Ennek biztosítás érdekében felhasználható az alábbi azonosság:
+
+x	
+=
+= z + f
+ 
+ 
+{\displaystyle \,e^{x}\,}	
+=
+ 
+ 
++
+ 
+{\displaystyle \,=e^{z+f}\,}
+=
+ 
+ 
+×
+[
+1
+0
+!
++
+ 
+(
+1
+1
+!
++
+ 
+(
+1
+2
+!
++
+ 
+(
+1
+3
+!
++
+⋯
+)
+)
+)
+]
+{\displaystyle \,=e^{z}\times \left[{1 \over 0!}+f\,\left({1 \over 1!}+f\,\left({1 \over 2!}+f\,\left({1 \over 3!}+\cdots \right)\right)\right)\right]}
+ahol 
+ 
+{\displaystyle \,z} az 
+ 
+{\displaystyle \,x}-nek az egész része,
+
+ 
+{\displaystyle \,f} az 
+ 
+{\displaystyle \,x}-nek a tört része, így
+ 
+{\displaystyle \,f} mindig kisebb, mint 1 és 
+ 
+{\displaystyle \,z} hozzáadható 
+ 
+{\displaystyle \,x}-hez.
+Az ez konstans pedig úgy számítható ki, hogy e-t önmagával szorozzuk z-szer, ha 
+ 
+≥
+0
+{\displaystyle z\geq 0} , vagy 
+1
+ 
+{\displaystyle {\frac {1}{e}}}- et szorozzuk önmagával z-szer, ha z < 0.
+
+Mivel f < 1, a sorozat gyorsan konvergál és a maradéktag
+
+0
+≤
+ 
+ 
+(
+ 
+)
+<
+3
+(
+ 
++
+1
+)
+!
+ 
+ 
++
+1
+{\displaystyle 0\leq R_{n}(g)<{\frac {3}{(n+1)!}}q^{n+1}} .
+
+A tagok rekurrenciás kapcsolata:
+
+ 
+0
+=
+ 
+0
+=
+1
+{\displaystyle T_{0}=u_{0}=1} , 
+ 
+ 
++
+1
+=
+ 
+ 
+⋅
+ 
+ 
++
+1
+{\displaystyle u_{n+1}=u_{n}\cdot {\frac {x}{n+1}}} .
+
+Az exponenciális függvényt számító algoritmus:
+
+function TaylorExp( in: x, ε out: T )
+u ← 1
+n ← 0
+T ← 1
+repeat
+u ← u*(x/n+1)
+T ← T + u
+n ← n + 1
+until |u| < ε
+return T
+end function
+Példa: Alkalmazásként határozzuk meg 
+ 
+{\displaystyle {\sqrt {e}}}-t 
+10
+−
+7
+{\displaystyle 10^{-7}} hibán belül. Ez esetben x = 1/2 tehát a rekurrenciás képlet:
+
+ 
+0
+=
+0
+{\displaystyle u_{0}=0} , 
+ 
+ 
++
+1
+=
+ 
+ 
+1
+2
+(
+ 
++
+1
+)
+{\displaystyle u_{n+1}=u_{n}{\frac {1}{2(n+1)}}} , k=(1, 2, . . .)
+
+un	Tn
+0	1	1
+1	0.5	1.5
+2	0.125	1.625
+3	0.0208333333333	1.64583333333
+4	0.00260416666667	1.6484375
+5	0.000260416666667	1.64849791667
+6	2.17013888889e-05	1.64871961806
+7	1.55009920635e-06	1.64872116815
+8	9.68812003968e-08	1.65872126504
+A pontos érték 1.6487212707...
+
+Források
+Lázár Zsolt, Lázár József, Járai-Szabó Ferenc: Numerikus módszerek, Kolozsvári Egyetemi Kiadó, 2008
+Kapcsolódó szócikkek
+Logaritmus
+Kategória: Analitikus függvényekValós analízis
+Navigációs menü
+nem vagy bejelentkezve
+vitalap
+közreműködések
+fiók létrehozása
+bejelentkezés
+szócikkvitalap
+olvasásszerkesztéslaptörténet
+Keresés a Wikipédián
+Kezdőlap
+Tartalom
+Kiemelt szócikkek
+Friss változtatások
+Lap találomra
+Tudakozó
+Részvétel
+Kezdőknek
+Segítség
+Közösségi portál
+Kapcsolatfelvétel
+Adományok
+Eszközök
+Mi hivatkozik erre?
+Kapcsolódó változtatások
+Speciális lapok
+Hivatkozás erre a változatra
+Lapinformációk
+Hogyan hivatkozz erre a lapra?
+Wikidata-adatlap
+Nyomtatás/​exportálás
+Könyv készítése
+Letöltés PDF-ként
+Nyomtatható változat
+Társlapok
+Wikimédia Commons
+
+Más nyelveken
+English
+العربية
+Deutsch
+हिन्दी
+Lietuvių
+Русский
+Українська
+اردو
+中文
+34 további
+Hivatkozások szerkesztése
+A lap utolsó módosítása: 2023. március 24., 12:01
+A lap szövege Creative Commons Nevezd meg! – Így add tovább! 3.0 licenc alatt van; egyes esetekben más módon is felhasználható. Részletekért lásd a felhasználási feltételeket.
+Adatvédelmi irányelvekA WikipédiárólJogi nyilatkozatMobil nézetFejlesztőkStatisztikákSütinyilatkozatWikimedia FoundationPowered by MediaWiki

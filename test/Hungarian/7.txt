@@ -1,0 +1,227 @@
+
+[elrejt]
+Bővítsd te is a roma kultúrával kapcsolatos ismereteket a magyar Wikipédián!
+
+Szeretnéd a környező országok kultúráját megismerni? Március 21. és május 31. között újra kipróbálhatod magad a CEE Tavasz szócikkíró versenyen!
+
+4000-es sorozat
+A Wikipédiából, a szabad enciklopédiából
+
+Egy nagyon korai, RCA gyártmányú CD4029 számláló IC.
+Disambig.svg	Ez a szócikk integrált áramkörökről szól. Hasonló címmel lásd még: 4000 (egyértelműsítő lap).
+A 4000-es sorozat egy szabványos integrált áramkör-családot jelöl, amelyek áramkörei változatos logikai funkciókat valósítanak meg CMOS technológiával. Ezek az áramkörök a mai napig használatban vannak. Az RCA vezette be 1968-ban, CD4000 COS/MOS elnevezés alatt, a TTL logikájú 7400-as sorozatban található logikai csipek alacsonyabb fogyasztású és sokoldalúbb alternatívájaként.[1]
+
+A sorozat megjelenése óta eltelt időben majdnem minden IC gyártó készített ebből a sorozatból való áramköröket. Az RCA egy időben COSMOS elnevezés alatt hirdette ezeket a termékeit, amely a COmplementary Symmetry Metal-Oxide Semiconductor rövidítése (kb. komplementer szimmetriájú fém-oxid félvezető). Az elnevezési rendszer az RCA-nál megszokott konvenciót követte, amelyben a CA az analóg, CD a digitális áramköröket jelezte, és eltért a Texas Instruments SN7400 sorozat számozási rendszerétől.
+
+
+CD4007 IC szerelőlapon
+A 4000-es sorozat előnye a kisebb elektromos fogyasztás, a nagyobb felhasználható feszültségtartomány (3-tól 15 V-ig), és az áramköri tervezés egyszerűsége, a meghajtóképességnek (kimeneti terhelhetőség, fan-out) köszönhetően. Mindamellett kisebb sebességük (kezdetben 1 MHz körüli működés, a bipoláris TTL áramkörök 10 MHz-ével összehasonlítva) a statikus vagy kis sebességű kialakításokra korlátozta ezek felhasználását. Az újabb gyártási technológiák megoldották a sebességi problémákat, miközben megtartották a visszafelé való kompatibilitást a korábbi áramköri tervek többségével. Bár minden félvezető érzékeny az elektrosztatikus kisülésekre, a CMOS áramkörök magasabb bemeneti impedanciája a bipoláris tranzisztoros, TTL eszközöknél ellenállóbbá teszi ezeket. Végül a CMOS előnyei (különösen a későbbi sorozatokban, mint pl. a 74HC) kiszorították a régebbi TTL csipeket, ezzel egyidőben viszont a rohamosan fejlődő LSI technikák a moduláris csiptervezési megközelítést szorították ki a használatból. A 4000-es sorozatot a mai napig széles körben használják, bár talán jelentősége kisebb, mint két évtizeddel ezelőtt.
+
+A sorozatot újabb funkciókat megvalósító elemekkel bővítették az 1970-es és 1980-as évek végén, vagy a meglévő csipek funkcióit jobban ellátó változatokkal. Az újabb csipek többsége már 45xx vagy 45xxx jelölést kapott, de még mindig a 4000-es sorozathoz tartozó áramköröknek számítanak.
+
+Az 1990-es években néhány gyártó, pl. a Texas Instruments, a 4000-es sorozat elemeit a saját újabb HCMOS technológiájával kezdte gyártani (adaptálta a 4000-es sorozatot az újabb HCMOS technológiához), így jelentek meg pl. a 74HCT4060 csip, amely az eredeti 4060-as IC-vel megegyező funkciót lát el, csak sokkal nagyobb sebességgel.
+
+A 4000-es sorozat áramköreit űreszközökben, műholdakban is használták évtizedeken keresztül.[2][3]
+
+
+Tartalomjegyzék
+1	Tervezési megfontolások
+2	Példák általános 4000 sorozatú csipekre
+3	Nevezetes alkatrészek
+3.1	4017 dekád számláló
+3.1.1	Példa: elektronikus rulett
+3.2	4026 számláló és megjelenítő-dekódoló
+3.3	4511 BCD-ről hétszegmenses kijelzőre dekódoló
+4	Jegyzetek
+5	Fordítás
+6	Források
+7	További információk
+8	Kapcsolódó szócikkek
+Tervezési megfontolások
+Az eredeti 4000-es sorozatban az áramköröknek pufferelt és nem pufferelt be- és kimenetű változataik voltak. A pufferelt kimenetek több áramot szolgáltathatnak vagy nyelhetnek el, mint a nem pufferelt kimenetek, ami bizonyos kialakításokban szükségtelenné teszi a diszkrét kapcsolótranzisztorokat. A pufferelt változatok gyorsabb kimeneti kapcsolási idővel is rendelkeztek, mivel a jel felfutási ideje a pufferelt kimeneti állapotban gyorsabb, mint egy nem pufferelt eszközben. A terjedési késés (propagation delay) a pufferelt változatokban nagyobb, mint a kiegészítő áramköröké.[4][5] A pufferelt eszközök hajlamosabbak a kimenet oszcillációjára a lassan változó bemenetek mellett. A tervezőknek meg kell fontolniuk a választást a pufferelt és nem pufferelt összetevők között, a tervezett eszköz tulajdonságait figyelembe véve. A kiegészítő bemeneti és kimeneti kapuk a pufferelt alkatrészekben csökkentik az elektrosztatikus kisülésre (ESD) való érzékenységet is.
+
+Habár az eredeti jelölésben megkülönböztették a pufferelt és nem pufferelt alkatrészeket ('A' vagy 'B' utótaggal, pl. 4000A = nem pufferelt, 4000B = pufferelt), néhány gyártó, így pl. a Texas Instruments később ezt megváltoztatta UB (unbuffered) és B (buffered) jelölésre (pl.: 4000UB és 4000B).
+
+Az alábbi rajzok mutatják a szerkezeti különbségeket az egyszerű pufferelt és nem pufferelt kialakítás között egy CMOS NOR logikai kapu példáján. Megfigyelhető, hogy a pufferelt alkatrész magjában található kapu valójában egy NAND kapu, de a teljes áramkör végső funkciója ténylegesen a NOR kapu működését mutatja, a pufferek által elvégzett logikai inverziók miatt (a negált NAND negált bemenetekkel megegyezik a NOR funkcióval, a Boole-algebra De Morgan-azonosságainak megfelelően). A bemeneti megfogódiódák az ESD elleni védelmet szolgálják.
+
+Pufferelt két bemenetű CMOS NOR kapu
+Pufferelt két bemenetű CMOS NOR kapu
+
+ 
+Nem pufferelt két bemenetű CMOS NOR kapu
+Nem pufferelt két bemenetű CMOS NOR kapu
+
+A 4000-es sorozat lehetővé teszi kész „receptek” használatát a tervezésnél, amelyben a szabványos áramköri elemek egyszerűen készíthetők, megoszthatók és egymáshoz kapcsolhatók, illesztési problémák nélkül, vagy csak minimális korrekcióval. Ez nagy mértékben gyorsítja az új hardver tervezését és növeli a korábbi tervek felhasználhatóságát, standard lépések bevezetésével. Ezzel ellentétben, pl. a TTL áramkörök, amelyek hasonlóan modulárisak, sokkal figyelmesebb illesztéseket igényeltek, korlátozottabb meghajtóképességükből kifolyólag, bár a későbbi áramkörcsaládokban, pl. a 74LS sorozatban a fanout mértéke akár a 20-at is elérhette. Ez az LSI tervek prototípusainak 4000 sorozatú csipekkel való elkészítését is könnyítette.
+
+A CMOS csipekkel való tervezés további gondosságot igényel. Sok alkatrész több logikai kaput tartalmaz egy tokon belül és általános a helyzet, mikor nincs szükség mindegyikre ezek közül. A lekötetlen lábak, bemenetek hibás működést okozhatnak, ui. a be nem kötött bemenetek a kapukat egy olyan állapotba húzzák, amelyek esetén a kimenetek részlegesen vezetővé válnak, emiatt a kimeneti puffer nagy áramot fogyaszt, mivel nincs se ki- sem pedig bekapcsolva, és alacsony ellenállást képez az áramkörben a tápvezetékek között.
+
+Példák általános 4000 sorozatú csipekre
+4000 - Kettős 3 bemenetű NOR kapu és inverter
+4001 - Négy 2 bemenetű NOR kapu
+4002 - Két 4 bemenetű NOR kapu
+4008 - 4 bites teljes összeadó
+4010 - hat nem-invertáló puffer
+4011 - Négy 2 bemenetű NAND kapu
+4017 - Dekád számláló / Johnson számláló
+4511 - BCD 7 szegmenses kijelző LED meghajtó
+Nevezetes alkatrészek
+Néhány alkatrész különösen jelentős a 4000-es sorozatban, ezeknél az integráció foka nagyobb, a többi csippel összehasonlítva. Az alábbi lista nem teljes, csak példákat mutat a sorozatból. Egyes analóg jelkapcsoló eszközök (mint a 4066, és a 4051-től a 4053-ig) továbbra is népszerűek bizonyos audio-kapcsolásokban, bár újabban sokkal alacsonyabb torzítású nem 4000-es sorozatú IC-k is megjelentek.
+
+4017 dekád számláló
+A 4017 IC egy 16 lábú CMOS dekád számláló a 4000-es sorozatból. Bemenete órajelimpulzusokat fogad, és tíz kimenetének egyike sorban egymás után bekapcsolt állapotba kerül minden egyes órajelimpulzus hatására.
+
+Bekötés
+
+A 4017 bekötése
+Láb száma	név	rendeltetés
+1	6	6. szekvenciális kimenet
+2	2	2. szekvenciális kimenet
+3	1	1. szekvenciális kimenet
+4	3	3. szekvenciális kimenet
+5	7	7. szekvenciális kimenet
+6	8	8. szekvenciális kimenet
+7	4	4. szekvenciális kimenet
+8	0 V, VDD	0 V vonalhoz csatlakozás
+9	9	9. szekvenciális kimenet
+10	5	5. szekvenciális kimenet
+11	10	10. szekvenciális kimenet
+12	CO	Carry out kimenet - magas jelet ad a 0-tól 4-ig terjedő számlálóértékeknél,
+alacsonyat 5-től 9-ig (9–0 átmenetnél magasra vált)
+13	LE	Latch enable - lezárja a kimenetet, ha magas,
+tehát a csip csak akkor számol, ha a LE alacsony
+14	CLK	Clock in – órajelbemenet
+15	RST	Reset - a reset jel magas értékénél az 1. kimenetet magasra,
+a 2–10 kimeneteket alacsonyra állítja
+16	+9 V, VCC	+VCC csatlakozás (+3 V és +15 V között lehet)
+Példa: elektronikus rulett
+
+Az elektronikus rulett kapcsolási rajza
+A kapcsolási rajz jobbra mutatja, hogyan készíthető egy egyszerű rulett-szerű játék egy 4017 dekádszámláló áramkörrel és egyéb alkatrészekkel. A változtatható ellenállás vezérli a pörgetés sebességét.
+
+4026 számláló és megjelenítő-dekódoló
+A 4026 IC egy 16 lábú CMOS hétszegmenses számláló a 4000-es sorozatból. Megszámolja a beérkező órajelimpulzusokat és a kimenetre olyan jeleket as, amelyek egy hétszegmenses kijelzőt vezérelhetnek. Ezzel elkerülhető a binárisan kódolt decimális értékről a hétszegmenses kijelző kódolására szolgáló bonyolult átalakítóáramkör, és a 0-tól 9-ig terjedő számjegyek egyszerűen megjeleníthetők.
+
+Bekötés
+
+A 4026 bekötése
+Láb száma	név	rendeltetés
+1	CLK	Clock in – órajelbemenet
+2	CI	Clock inhibit – ha alacsony, az órajelimpulzus növeli a hétszegmenses értéket
+3	DE	Display enable – ha magas, a csip kimenetére teszi a hétszegmenses értéket,
+tehát ha alacsony, akkor hétszegmenses kijelző ki van kapcsolva,
+ez csökkenti a fogyasztást: a számnak nem kell folyamatosan világítania
+4	DEO	Display enable out - 4026-osok egymás után kötésére szolgál
+5	CO	Carry out output – 9–0 átmenetnél magas; az órajel 1/10 frekvenciája
+jelenik meg ezen, több számjegyű számláláshoz több 4026-ossal
+6	F	kimenet a hétszegmenses kijelző F bemenetéhez
+7	G	kimenet a hétszegmenses kijelző G bemenetéhez
+8	VDD	0 V vonalhoz
+9	D	kimenet a hétszegmenses kijelző D bemenetéhez
+10	A	kimenet a hétszegmenses kijelző A bemenetéhez
+11	E	kimenet a hétszegmenses kijelző E bemenetéhez
+12	B	kimenet a hétszegmenses kijelző B bemenetéhez
+13	C	kimenet a hétszegmenses kijelző C bemenetéhez
+14	UCS	Ungated C-segment – kimenet a hétszegmenses kijelző C bemenetéhez,
+amelyre nincsenek hatással a DE bemenetek.
+A kimenet magas, kivéve ha a számláló 2, amikor alacsonyra vált.
+15	RST	Reset - ha magas, minden kimenetet alacsony állapotba visz
+16	VSS	+9 V vonal
+4511 BCD-ről hétszegmenses kijelzőre dekódoló
+A 4511 IC egy 16 lábú CMOS BCD-ről hétszegmenses kijelzőre alakító dekódolóáramkör a 4000-es sorozatból. Bemenete egy binárisan kódolt decimális érték egy bináris számlálóból, ezt dekódolja és egy közös katódú hétszegmenses kijelzőt vezérlő jelet ad ki.
+
+Bekötés
+
+A 4511 bekötése
+Láb száma	név	rendeltetés
+1	2s	bemenet, a 2s bit értéke a bináris számlálóból
+2	4s	bemenet, a 4s bit értéke a bináris számlálóból
+3	LT	Lamp test – „lámpa teszt”, ha alacsony, a csip az összes
+szegmensvezérlő jelet magasra állítja, teszteléshez
+4	BI	Blanking input – ha alacsony, az összes megjelenítő vezérlőjel
+alacsony; megjelenítő kikapcsolására, fogyasztáscsökkentéshez
+5	LE	Latch enable – ha magas, lezárja kimenetet,
+tehát a csip akkor működik, ha a LE jel alacsony
+6	8s	bemenet, a 8s bit értéke a bináris számlálóból
+7	1s	bemenet, az 1s bit értéke a bináris számlálóból
+8	0 V, VDD	0 V vonal
+9	E	kimenet a hétszegmenses kijelző E bemenetéhez
+10	D	kimenet a hétszegmenses kijelző D bemenetéhez
+11	C	kimenet a hétszegmenses kijelző C bemenetéhez
+12	B	kimenet a hétszegmenses kijelző B bemenetéhez
+13	A	kimenet a hétszegmenses kijelző A bemenetéhez
+14	G	kimenet a hétszegmenses kijelző G bemenetéhez
+15	F	kimenet a hétszegmenses kijelző F bemenetéhez
+16	+9 V, VCC	+9 V vonal
+Jegyzetek
+ Wright, Maury. Milestones That Mattered: CMOS pioneer developed a precursor to the processzor EDN, 6/22/2006. [2007. szeptember 27-i dátummal az eredetiből archiválva]. (Hozzáférés: 2006. július 1.)
+ "Attitude control magnetometer"
+ "AO-40 RUDAK Experiment Controller"
+ Understanding Buffered and Unbuffered CD4xxxB Series Device Characteristics. Texas Instruments
+ Lancaster, Don. CMOS Cookbook, ISBN 0-672-21398-2
+Fordítás
+Ez a szócikk részben vagy egészben a(z) 4000 series című angol Wikipédia-szócikk ezen változatának fordításán alapul. Az eredeti cikk szerkesztőit annak laptörténete sorolja fel. Ez a jelzés csupán a megfogalmazás eredetét jelzi, nem szolgál a cikkben szereplő információk forrásmegjelöléseként.
+
+Források
+További információk
+List of 4000 series ICs manufactured by NXP Semiconductors
+Thorough list of 4000 series ICs
+4000B Series CMOS Functional Diagrams
+4000 Series Logic and Analog Circuitry, By James M Bryant
+Kapcsolódó szócikkek
+A 4000-es sorozatú integrált áramkörök listája
+7400-as sorozat
+A 7400-as sorozatú integrált áramkörök listája
+Logikai kapu
+Informatika Informatikai portál • összefoglaló, színes tartalomajánló lap
+Kategória: Digitális elektronikaIntegrált áramkörökMikroprocesszorok
+Navigációs menü
+nem vagy bejelentkezve
+vitalap
+közreműködések
+fiók létrehozása
+bejelentkezés
+szócikkvitalap
+olvasásszerkesztéslaptörténet
+Keresés a Wikipédián
+Kezdőlap
+Tartalom
+Kiemelt szócikkek
+Friss változtatások
+Lap találomra
+Tudakozó
+Részvétel
+Kezdőknek
+Segítség
+Közösségi portál
+Kapcsolatfelvétel
+Adományok
+Eszközök
+Mi hivatkozik erre?
+Kapcsolódó változtatások
+Speciális lapok
+Hivatkozás erre a változatra
+Lapinformációk
+Hogyan hivatkozz erre a lapra?
+Wikidata-adatlap
+Nyomtatás/​exportálás
+Könyv készítése
+Letöltés PDF-ként
+Nyomtatható változat
+Társlapok
+Wikimédia Commons
+
+Más nyelveken
+English
+Español
+Français
+日本語
+Português
+Русский
+Українська
+Tiếng Việt
+中文
+5 további
+Hivatkozások szerkesztése
+A lap utolsó módosítása: 2023. március 4., 06:53
+A lap szövege Creative Commons Nevezd meg! – Így add tovább! 3.0 licenc alatt van; egyes esetekben más módon is felhasználható. Részletekért lásd a felhasználási feltételeket.
+Adatvédelmi irányelvekA WikipédiárólJogi nyilatkozatMobil nézetFejlesztőkStatisztikákSütinyilatkozatWikimedia FoundationPowered by MediaWiki

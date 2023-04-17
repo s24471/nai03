@@ -1,0 +1,512 @@
+
+Tropen
+	
+Dieser Artikel beschäftigt sich mit geographischen Bereichen der Erde. Andere Bedeutungen siehe Trope.
+
+Strand mit Kokospalmen (Philippinen): Sinnbild für die Tropenzone
+
+Landwirtschaft in den Tropen (Bangladesch): Sehr oft noch nicht mechanisiert
+
+Untergliederung in Subzonen und Klimatypen nach der Vegetation
+Die Tropen (von altgriechisch τρόποι Ἥλιου trópoi Hēliou, deutsch ‚Sonnenwendegebiete‘) – auch tropische (Klima-)Zone oder Niedere Breiten – sind in erster Linie eine der erdumspannenden Klimazonen, die durch bestimmte solare oder thermische Schwellenwerte abgegrenzt werden. Die tropische Zone erstreckt sich parallel zu den Breitenkreisen in Ost-West-Richtung; nach der solaren Definition zwischen dem nördlichen und südlichen Wendekreis um die gesamte Erde (mit dem Äquator als Mittellinie).[1] Polwärts schließen sich die Subtropen an. Nach thermischen Parametern kommt es je nach Klimaklassifikation und Autor zu erheblichen Abweichungen von den solaren Grenzen.
+
+Das herausragende Merkmal aller tropischer Gebiete ist die über das gesamte Jahr fast gleichbleibende Tageslänge, die nur um maximal 3 Stunden schwankt; immer hohen Sonnenständen zur Mittagszeit sowie einer jährlichen Regenzeit, deren Dauer mit zunehmender Entfernung vom Äquator abnimmt.[2] Hinzu kommt eine grundsätzliche Frostfreiheit.
+
+Die Untergliederung der Tropen ist vielfältig (Übersicht siehe nebenstehende Grafik): Innerhalb der Tropen werden die äquatornahen immerfeuchten Inneren Tropen von den zu den Wendekreisen hin sommer- bzw. wechselfeuchten Äußeren Tropen bis zu den trockenen Randtropen als Subzonen unterschieden, die sich in unterschiedlichen Klimatypen, Öko- und Vegetationszonen zeigen.
+
+Mindestens vier Klimatypen werden unterschieden: Zum einen die tropischen Regenwaldklimate entlang des Äquators, die von den wechselfeuchten Feuchtsavannenklimaten gesäumt werden. Nach einer anderen Untergliederung werden beide zusammen auch Feuchte Tropen genannt.
+
+Demgegenüber stehen die Trockenen Tropen, zu denen die ebenfalls wechselfeuchten Trockensavannenklimate der Äußeren Tropen und schließlich in die Dornsavannenklimate der Randtropen gehören. Letztere zählen sowohl zu den sommerfeuchten als auch zu den tropisch / subtropischen Trockengebieten, die am Ende in tropische Halbwüsten und Wüsten übergehen. (Da die zugehörigen Heißen Wüstenklimate zum größten Teil in den Subtropen liegen, werden sie dort behandelt.)
+
+Alle vorgenannten Untergliederungen beziehen sich nur auf die in geringer Höhe (je nach Klimatyp) von 1200 bis maximal 2000 m über dem Meeresspiegel gelegenen planar-kollinen Warmtropen. Typische Klimaeigenschaften der Tropen gelten jedoch auch für die höher gelegenen Gebiete. Aufgrund der höhenwärtigen Temperaturabnahme spricht man ab der montanen Höhenstufe in tropischen Gebirgen, wenn die 18- oder 20 °C-Isotherme unterschritten wird, von Kalttropen.
+
+Im weiteren Sinne steht der Begriff Tropen über die klimatische Betrachtung hinaus für den globalen, geozonalen Naturraum mit seinen weiteren Eigenarten.
+
+Durch die globale Erwärmung kommt es zu einer Verschiebung der Klimazonen mit weitreichenden Folgen. Zum einen dürften die halbtrockenen Tropen (z. B. die Savannen des Sahel) von zunehmenden Niederschlägen profitieren, so dass der Ackerbau mehr Erträge bringt.[3] Die feuchten Zonen der Tropen, die bereits weitgehend entwaldet sind, werden hingegen durch zunehmende Trockenheit und Waldbrände weiter ihre Artenvielfalt einbüßen. Intakter Regenwald hingegen wirkt ausgleichend auf den Wasserhaushalt und kommt mit steigenden Temperaturen relativ gut zurecht.[4] In dem Zusammenhang sind auch Veränderungen der Vegetationsverteilung bei im Tropengürtel liegenden Gebirgszügen zu erwarten.[5]
+
+Als Außer- oder Ektropen werden diejenigen Gebiete zusammenfassend bezeichnet, die nicht in den Tropen liegen und demnach ein Jahreszeitenklima aufweisen (Subtropen, Mittelbreiten, Polargebiete).
+
+
+Inhaltsverzeichnis
+1	Klimazone
+1.1	Solare Abgrenzung
+1.1.1	Strahlungsdaten
+1.2	Thermische Merkmale
+1.2.1	Klassifikationen und Festlegungen
+1.3	Hygrische Merkmale
+1.3.1	Tropisch/subtropische Trockengebiete; Trockenklimate
+1.4	Wettersysteme
+1.5	Subzonen und Klimatypen
+1.5.1	Warmtropen
+1.5.1.1	Innere Tropen
+1.5.1.1.1	Tropische Regenwaldklimate
+1.5.1.2	Äußere Tropen
+1.5.1.2.1	Feuchtsavannenklimate
+1.5.1.2.2	Trockensavannenklimate
+1.5.1.3	Randtropen
+1.5.1.3.1	Dornsavannenklimate
+1.6	Kalttropen
+2	Naturraum
+2.1	Feuchte und trockene Tropen
+2.2	Ausdehnung und Ausmaße
+2.3	Ökologie
+2.4	Biologische Vielfalt
+2.5	Fauna und Flora
+2.6	Böden
+2.7	Besiedlung und Nutzung
+2.8	Die Tropen als Topos
+3	Literatur
+4	Weblinks
+5	Anmerkungen
+6	Unterteilungen zur Artenvielfalt
+7	Quellen
+Klimazone
+
+Tropische Klimazone nach drei bekannten Klassifikationen
+Festlegung der Zonengrenzen nach:
+—  Troll & Paffen (1964)	—  Lauer, Rafiqpoor & Frankenberg (1996)	—  Siegmund & Frankenberg (1999/2006)
+Elementare Makroklimate (maximale Ausdehnung):	Übergänge zu Makroklimaten benachbarter Zonen / Weitere Flächen:
+﻿Immerfeuchte tropische Regenwaldklimate
+/////   Übergangsklimate zu Nachbarzonen
+﻿Feuchtsavannenklimate
+﻿Extrazonale Gebirgsklimate (nicht weiter untergliedert)
+﻿Trockensavannenklimate
+Subtropisch/tropische Trockengebiete: (nur tropische Anteile)	
+﻿Heiße Trockenklimate
+﻿Dornsavannenklimate
+(Bei der Untergliederung (die auch Grundlage der Tabelle im Abschnitt Klimatypen ist) handelt es sich um eine beispielhafte Einteilung, die sich im Wesentlichen an die Arbeit von Schultz anlehnt.[Anmerkung 1] Sie dient dazu, die große Zahl der „realen“ Klimatypen aus den gängigen Klassifikationsmodellen entsprechend zuzuordnen und damit besser vergleichbar zu machen.)
+Solare Abgrenzung
+
+Mittag in den Tropen, die Sonne steht fast im Zenit (erkennbar am Schattenwurf der Palmen).
+Die typischen, ganzjährig fast gleichbleibenden „Sonnenläufe“ in den Tropen bedingen das Phänomen des Tageszeitenklimas, sodass die Einstrahlung permanent hoch ist. Dabei steht die Sonne – im Bereich der Wendekreise am Tag der Sommersonnenwende einmal jährlich und ansonsten überall in den Tropen zweimal jährlich (über dem Äquator um den 21. März und den 23. September) – senkrecht über der Erde (im Zenit). Da dieses Phänomen polwärts an den Wendekreisen bei genau 23° 26′ 05″ nördlicher und südlicher Breite endet, sind sie die „natürlichen“ Grenzen der (solaren) Tropen.
+
+Strahlungsdaten
+Die höchsten Sonnenstände der Klimazone liegen von den Wendekreisen bis zum Äquator zwischen 43 und 67° zur Wintersonnenwende und zwischen 90 und 67° zur Sommersonnenwende.[6] Dies führt zu einer mittleren jährlichen Globalstrahlung von 1700 bis über 2200 kWh/m² in den Tropen.[7] Dies sind die höchsten Werte auf der Erde.
+
+Die Tageslängen bewegen sich im Jahreslauf zwischen gleichbleibend 12 Stunden am Äquator und 10,5 und 13,5 Stunden an den Wendekreisen; das entspricht jährlichen Schwankungen von 0 bis 3 Stunden.[8][6] Während der Vegetationsperiode liegen die Tageslängen im Mittel bei 12 bis 13 Stunden.[9]
+
+Der UV-Index (sonnenbrandwirksame Intensität der Ultraviolettstrahlung) ist im Jahresmittel um 12:00 Uhr Mittags mit 9 bis über 14 sehr hoch bis extrem hoch.[10] In tropischen Hochgebirgen werden bei klarem Himmel die weltweit höchsten Werte gemessen.
+
+Thermische Merkmale
+
+Tropische Gewächse – wie diese Ficus-Art – vertragen keinen Frost
+Durch diverse Faktoren (insbesondere Luft- und Meeresströmungen) wird die durch die eingestrahlte Sonnenenergie entstehende Wärme unregelmäßig nach Norden oder Süden transportiert. Die thermischen Grenzen der Tropen weichen daher mehr oder weniger von den solaren Grenzen ab. Vor diesem Hintergrund haben diese Gebiete einen hohen bis mittleren maximalen Energieeintrag mit niedriger Variationsbreite.[11]
+
+Aufgrund der ständig hohen Sonnenstände und der gleichbleibenden Wetterlagen betragen die Schwankungen der Tagestemperatur im Tieflandregenwald nur bis zu 7 Kelvin.[12] In den sommerfeuchten Tropen hingegen sind 9 Kelvin in der Regenzeit und 18 Kelvin in der Trockenzeit typisch. Grundsätzlich bleiben alle tropischen Gebiete ganzjährig frostfrei.
+
+Vergleicht man verschiedene Karten der Klimazonen (oder vergleichbarer geozonaler Modelle), so fallen erhebliche Abweichungen der Zonengrenzen auf, wie man bereits an den drei Modellen der hier veröffentlichten Karte erkennen kann.[Anmerkung 2]
+
+Klassifikationen und Festlegungen
+Etliche Wissenschaftler haben versucht, die Grenzen der Klimazonen grundlegend zu definieren oder ihre Ansätze ermöglichen die Ableitung entsprechender Schwellenwerte. Einige Beispiele:
+
+Autor(en)	von	Ziel / Hintergründe	Benennung	Faktoren	Wertebereiche
+Köppen, auf der Grundlage von Supan[13]	1884	Festlegung der fünf Klimazonen	Tropenzone	Andauer der Mitteltemperaturen	12 Monate über 20 °C
+Troll & Paffen[14]	1964	„Jahreszeitenklimate“
+Grundlegende Festlegung von Klimazonen in Bezug zu
+den Wechselwirkungen des Klimas auf die Vegetation	Tropenzone	Thermische Andauer- u. Schwellenwerte,
+sowie Gehölze	Jahresmitteltemperatur über 18,3 °C
+frostfrei (Tiefland)
+frostempfindliche, immergrüne oder trockenkahle Laubbäume
+FAO, auf der Grundlage
+von Köppen & Trewartha[15]	1968 / 2000	„Ecological zones“
+Level 1 - Domain: Übergeordnete thermische Klimazonen
+im System der Ökozonen; internationale Verwendung	Tropical	Thermische Andauer- u. Schwellenwerte	ganzjährig frostfrei
+in Meeresnähe über 18 °C
+Schultz[9]	1988	„Die Ökozonen der Erde“
+Klimazonen nach Troll & Paffen auf der ersten Ebene der Ökozonen	Tropen	(u. a.) Thermische Wachstumsbedingungen
+in Klammern = regional	(9 bis 11) 12 Monate über 10 °C
+9 bis 12 Monate über 18 °C
+Müller-Hohenstein[16]	1989	„Geoökologische Zonen“
+Klimazonen als 1. Gliederungsebene	Tropische Zonen	Jahresmitteltemperatur (JMT) und
+Vegetationsperiode (VP) als
+Summe der humiden Tage mit ø ≥ 10 °C	JMT: 21 bis 28 °C
+VP: um 180 bis 365 Tage
+Lauer, Frankenberg
+und Rafiqpoor[17]	1996	„Die Klimate der Erde“
+„Ökophysiologische Klimaklassifikation“: Wechselwirkungen des
+Systems „Klima–Pflanze–Boden“ als Reaktion der Pflanzendecke
+auf das Klima mit Quantifizierung der Grenzlinien	Tropen-Zone	mittlere Bestrahlungsstärke (BS)
+und thermische Vegetationsperiode (VP)	BS: über 150 W/m²
+VP: 12 Monate
+weitestgehend frostfrei
+Siegmund & Frankenberg[18]	1999 / 2006	„Klimate der Erde“
+Thermische Klimazonen als erster Klimaschlüssel im „Baukastensystem“	Heiße Zone (Tropen)	Jahresmitteltemperatur	über 24 °C
+Box[13]	2016	„World Bioclimatic Zonation“
+Haupt-Klimazonen nach Kardinaltemperaturen und deren Dauer	Tropical zone	Tagesmitteltemperaturen	niemals unter 0 °C
+vielleicht nicht unter 5 °C
+Hygrische Merkmale
+
+Amazonas-Delta mit Cumulus-humilis-Wolken über den feuchteren Gebieten des Amazonas-Regenwalds, die dort wegen der Verdunstung auch während der Trockenzeit entstehen (August 2017).
+Zur Bestimmung eines Klimatyps sind neben den verschiedenen Temperaturen ebenso Messwerte zur Wasserversorgung erforderlich. Da jede Klimazone verschiedene Klimatypen umfasst, sind die im Folgenden aufgeführten Mittelwerte für den gesamten Klimagürtel nur in Bezug auf die zonale Abfolge aussagekräftig:
+
+Die mittleren jährlichen Niederschläge liegen in den Tropen bei relativ hohen 800 mm am nördlichen und 900 mm am südlichen Wendekreis bis hin zu hohen 1800 mm in den inneren Tropen nördlich und 1900 mm südlich des Äquators.[19] Sämtliche Niederschläge außerhalb von Hochgebirgen fallen als Regen, die größten Mengen als zenitaler Starkregen in den inneren und als Monsunregen in den äußeren Tropen. Die Verdunstungsrate ist in den trockenen und auch noch in den wechselfeuchten Tropen deutlich höher als die Niederschlagssummen, während sie in den innertropischen, wolkenreichen Regenwaldgebieten wieder etwas geringer ist. Diese Kombination führt zu einer im Mittel sehr hohen Luftfeuchtigkeit, obwohl sie in Richtung Randtropen deutlich abnimmt. Der Himmel in den Tropen im Mittel wolkig bis bewölkt, ebenfalls mit einer immer geringeren Wolkendecke, je näher man den Wendekreisen kommt.[20]
+
+Grundsätzlich bestimmen die Niederschlagsverhältnisse in den Subtropen und Tropen (Hochgebirge ausgenommen) aufgrund der überall ganzjährig hohen Temperaturen im Wesentlichen die Wachstumsbedingungen der Pflanzenwelt.
+
+Tropisch/subtropische Trockengebiete; Trockenklimate
+
+Klimazonenübergreifende Trockenklimate nach Köppen & Geiger
+In den Ökozonen nach Schultz werden die Trockengebiete der Subtropen und Tropen zusammengefasst, da das Konzept der thermischen Klimazonen einschließlich klar unterscheidbarer Vegetationsformen hier an seine Grenzen stößt. Die in der Karte unvollständig dargestellten Dornsavannenklimate liegen zum größten Teil in den Tropen, sodass dieser Klimatyp hier beschrieben wird, während die vorwiegend in den Subtropen liegenden heißen Wüstenklimate dort behandelt werden.
+
+Köppen & Geiger – die das klassische Klimazonenkonzept vermieden haben – fassten alle Trockenklimate der Erde von den Mittelbreiten bis zu den Tropen als so genannte B-Klimate zusammen. Die Siegmund-Frankenberg-Klassifikation orientiert sich im ersten Schritt an den thermischen Klimazonen, um dann im zweiten Schritt ebenfalls ein zonenübergreifendes Gebiet hygrisch definierter Trockenklimate einzufügen.
+
+Wettersysteme
+Die Tropenklimate werden im Rahmen der planetarischen Zirkulation von der innertropischen Konvergenzzone etwa zwischen 5° Süd und 10° Nord geprägt.[21] Sie entsteht durch die ganzjährig besonders große Energieaufnahme bei hohen Sonnenständen, die zu schnell aufsteigenden warmen Luftmassen und damit zu anhaltendem tiefen Luftdruck in Bodennähe (mit oft hoher Luftfeuchtigkeit und häufigen Gewittern) führen. Dadurch strömt Luft aus den Subtropen Richtung Tropen: Dies ist die Ursache der mäßig starken, aber sehr beständigen Passate, die durch die Corioliskraft ostwärts abgelenkt werden. Die Konvergenzzone, die auch äquatoriale Tiefdruckrinne genannt wird und die im Innern durch die windstillen Kalmen sowie ein typisches Band hoher Quellwolken gekennzeichnet ist, verlagert sich mit den zenitalen Sonnenständen im Rhythmus der Jahreszeiten bis Juli nach Norden und bis Januar nach Süden. Dies führt in den angrenzenden tropischen Sommerregenzonen zu feuchten und meist regenreichen Sommern, während im Winter der Einfluss der subtropischen Hochdruckgürtel mit niederschlagsarmem Wetter dominiert.[21] Im Bereich der viel größeren Landmassen der Nordhalbkugel entfernt sich die Tiefdruckrinne im Sommer wesentlich weiter vom Äquator; in Asien bis in die Subtropen. Die in der Höhe an der Tropopause als Antipassate polwärts strömenden schweren, warmen Luftmassen sinken größtenteils spätestens über rund 30° Breite in den Subtropen ab – auch, weil die hier tiefer gelegene Tropopause sie dazu zwingt. Im weiteren Zusammenhang bestimmen die tropisch/subtropischen Luftmassen gleichsam mit ihrem Gegenspieler – den leichten, kalten Luftmassen der Polargebiete – die planetarische Frontalzone der Mittelbreiten mit den höchsten Druckunterschieden der Atmosphäre. Die tropisch-subtropischen Zirkulationen werden insgesamt als Hadley-Zellen bezeichnet. Sie sind sehr stabil und verursachen meist langanhaltende Wetterlagen in den Tropen.[22] Aufgrund der ständig hohen Energiezufuhr sind extreme Wetterereignisse wie intensive Schauer mit Starkregen, Gewitter sowie tropische Wirbelstürme in den Tropen typisch.[23]
+
+Subzonen und Klimatypen
+
+Tropische Landschaften: Sommerfeuchte Savannen und immerfeuchte Regenwälder bei einem Tepui in Venezuela
+Allein die Zugehörigkeit zu einer Klimazone ermöglicht noch keine Aussagen über die tatsächlichen Klimate innerhalb der Zone. Dazu bedarf es der Festlegung von Klimatypen (für die niedrigen (planar-kollinen) Regionen) aus dem Vergleich der „elementaren“ Makroklimate aller Kontinente mit Hilfe weiterer Parameter (siehe Klimazone: Abschnitt Möglichkeiten der Zonen-Untergliederung): Das können regionale thermische Bedingungen sein – etwa die Kontinentalität –, doch vor allem hygrische Merkmale wie die Summe der Niederschläge im Jahr, die Dauer von Regen- und Trockenzeiten oder das Verhältnis von Niederschlags- und Verdunstungsrate (Humidität/Aridität). Dies führt zu komplexen Klimaschlüsseln, die im Kartenbild zwangsläufig noch größere Abweichungen zwischen den verschiedenen Modellen aufweisen!
+
+Wie an der Karte erkennbar, besteht die tropische Zone aus mindestens fünf elementaren Makroklimaten, die oftmals als drei Subzonen der sogenannten Warmtropen betrachtet werden, da ihre Abfolge – wenngleich mit vielen Ausnahmen – ungefähr breitenkreisparallel verläuft. Weil die Temperaturen überall ganzjährig hoch sind und demzufolge keine Limitierung der Vegetation bewirken, werden für die Klimatypen der Warmtropen im Allgemeinen keine Temperaturgrenzwerte genannt. Entscheidend ist hier vielmehr die Menge und Verteilung der Niederschläge. Die Gebirgsklimate werden als Kalttropen in der Regel separat betrachtet. Zudem gibt es eine weitere ökologische Einteilung in Feuchte und trockene Tropen.
+
+Warmtropen
+Als Warmtropen werden jegliche (geozonalen) Tropenklimate des Tieflandes in Abgrenzung zu den (extrazonalen) Höhenklimaten der Kalttropen bezeichnet. Das entscheidende gemeinsame Merkmal der Warmtropen ist die die grundsätzliche Frostfreiheit.[24]
+
+Im Sinne idealisierter Subzonen werden sie in die immerfeuchten inneren sowie die sommer- bzw. wechselfeuchten äußeren und randständigen Tropen unterteilt.
+
+Innere Tropen
+Die inneren Tropen sind durch ein schwülwarmes, immerfeuchtes Tropenklima ohne ausgeprägte Trockenzeiten gekennzeichnet. In einem zwischen knapp 1000 und fast 4000 Kilometer breiten (jedoch sehr unregelmäßigen) „Band“, dass sich mit zwei Unterbrechungen (Ostafrika und Hochanden) über alle Kontinente nördlich und südlich des Äquators erstreckt, nimmt die Luft durch die ganzjährig sehr hohe Sonneneinstrahlung große Mengen Wasser auf. Aufgrund der Passatzirkulation verbleiben diese Luftmassen zum großen Teil in der innertropischen Konvergenzzone und regnen sich dort wieder ab. In diesem Klima entstehen tropische Regenwälder im Tiefland sowie entsprechende dauerfeuchte Vegetationsformen in den Hochlagen (siehe Kalttropen).
+
+Durch die hohen Temperaturen verdunsten große Mengen Wasser, weshalb die Luftfeuchte sehr hoch ist. Das führt im Tagesgang zu häufiger und dichter Bewölkung, welche durch die starke Verdunstung entsteht. Die Einstrahlung der Sonnenstrahlen wird dadurch abgeschwächt. Es herrscht somit ein hochgradiges (solares und thermisches) Tageszeitenklima: die täglichen Temperaturschwankungen sind größer als die jährlichen. Niederschlagsbestimmendes Phänomen der Tropen ist die Passatzirkulation und deren jahreszeitliche Verschiebung. Die Passatzirkulation bewirkt rund um äquatoriale Konvergenzzone beim höchsten Sonnenstand so genannten Zenitalregen, der mit den höchsten Regenmengen einhergeht. Die Konvergenzzone kann fast stillstehen – im Pazifik und Atlantik – oder sich im Jahresverlauf zyklisch einmal über die gesamten Tropen bewegen wie etwa zwischen Zentralafrika bis zum malaiischen Archipel.
+
+Tropische Regenwaldklimate
+Tropische-Regenwaldklimate.png
+
+Regenwald am Kongo
+Die im Folgenden genannten Merkmale gelten erdumspannend (geozonal) für Regionen bis zu rund 1200 m Meereshöhe. Höher gelegene Gebiete weisen häufig ein abweichendes (extrazonales) Gebirgsklima auf.
+
+Die Klimate der tropischen Regenwälder sind der Klimatyp des innertropischen Makroklimas. Sie sind geprägt durch sehr hohe Jahresmitteltemperaturen, die in der Regel zwischen 24 und 28 °C liegen. Die sehr hohen Jahresniederschläge bewegen sich zwischen 1800 und 2800 mm (im Mittel, mit einer sehr großen Spanne von durchschnittlich 1500 bis über 8000 mm).[25] .
+
+Die Niederschläge sind mindestens 8 Monate (oft ganzjährig) sehr hoch bis extrem hoch, regional bis zu 4 Monate gering bis mäßig. In Übergangslagen (z. B. zum tropisches Monsunklima) sind bis zu zwei voll aride Monate[26] möglich, in der Regel sind die hygrischen Verhältnisse jedoch trotz der hohen Gesamtverdunstung mit 10 bis 12 feuchten Monaten vollhumid.[9][16]
+
+Die genannten Bedingungen von Licht, Wärme und Feuchtigkeit führen zu einer maximalen Dauer der jährlichen Wachstumsperiode von 360 Tagen.[13][27] Die potenzielle natürliche Vegetation besteht aus extrem biomassereichem, hochwüchsigem und stockwerkartig strukturiertem immergrünem tropischem Regenwald sowie etwas niedrigeren, halbimmergrünen (saisonalen) Übergangswäldern.
+
+Die Gesamtcharakteristik der tropischen Regenwaldklimate kann mit „ganzjährig warm und feucht; Regenzeit mit oder ohne kurze Unterbrechung; üppige immergrüne Regenwälder“ zusammengefasst werden.
+
+Folgende Klimatypen effektiver Klassifikationsmodelle decken dieses Makroklima ab:
+
+bei Troll & Paffen: V1 (Tropische Regenklimate)
+bei Köppen & Geiger: Af (tropisches Regenwaldklima)
+bei Trewartha: Ar (Tropical Wet)
+Äußere Tropen
+In den äußeren Tropen, die in ihrer Nord-Süd-Ausdehnung zwischen 600 und 2000 Kilometer „breit“ sind und auch sommer- oder wechselfeuchte Tropen genannt werden, treten bei insgesamt mäßigen bis hohen Niederschlagssummen eine ausgeprägte sommerliche Regenzeit, eine winterliche Trockenzeit und dazwischen liegende kurze Übergangszeiten auf. Auch dabei spricht man von Jahreszeiten; dennoch herrscht auch in den äußeren Tropen noch ein Tageszeitenklima. Die beiden tropischen Subzonen liegen nördlich und südlich der immerfeuchten Äquatorialzone und werden in mindestens drei elementare Klimate unterteilt.
+
+Feuchtsavannenklimate
+Feuchtsavannenklimate.png
+
+Monsunwald in Thailand
+
+Feuchtsavanne in der Dominikanischen Republik
+Die im Folgenden genannten Merkmale gelten erdumspannend (geozonal) für Regionen bis zu rund 1500 m Meereshöhe. Höher gelegene Gebiete weisen häufig ein abweichendes (extrazonales) Gebirgsklima auf.
+
+Die Klimate der tropischen Feuchtwälder und Feuchtsavannen (die ökologisch zusammen mit den Regenwaldklimaten zu den feuchten Tropen gezählt werden) erhalten eine sehr hohe Globalstrahlung, die während der Vegetationszeit etwas geringer ist.[9] Sie sind geprägt durch sehr hohe Jahresmitteltemperaturen, die in der Regel zwischen 22 und 28 °C liegen. Die hohen Jahresniederschläge bewegen sich zwischen (mindestens 1000) 1200 und 2000 mm.[25]
+
+Die Niederschläge sind in der Jahresmitte 7 bis 9 Monate meist sehr hoch, in der übrigen Zeit meist sehr gering (bis extrem gering). Die entsprechenden Klimadiagramme weisen weltweit nur auffallend geringe Unterschiede auf. Aufgrund der hohen Gesamtverdunstung[9] ist das Klima mit unter 10 feuchten Monaten[16] beziehungsweise 3 bis 5 ariden Monaten[26] semihumid.
+
+Die genannten Bedingungen von Licht, Wärme und Feuchtigkeit führen zu einer langen Dauer der jährlichen Wachstumsperiode von über 300 Tagen.[13][27] Die potenzielle natürliche Vegetation besteht aus halb laubwerfenden regengrünen Feuchtwäldern, die jedoch in Richtung Wendekreise aufgrund regelmäßiger (natürlicher oder anthropogen verursachter) Waldbrände sehr großflächig zu Feuchtsavannen degradiert sind. Die Grasnarbe aus häufig sehr hohen Gräsen (bis über 2 m) bedeckt den gesamten Boden.
+
+Die Gesamtcharakteristik der Feuchtsavannenklimate kann mit „ganzjährig warm, längere Regen- als Trockenzeit mit kurzen Übergängen; niedrige regengrüne Wälder oder feuchte Hochgrassavannen“ zusammengefasst werden.
+
+Folgende Klimatypen effektiver Klassifikationsmodelle decken dieses Makroklima ab:
+
+bei Troll & Paffen: V 2 (Tropisch humide Feuchtklimate)
+bei Köppen & Geiger: Am (tropisches Monsunklima)
+bei Trewartha: Aw (Tropical Wet-And-Dry)
+Trockensavannenklimate
+Trockensavannenklimate.png
+
+Miombo-Trockenwald in Malawi
+
+Trockensavanne in Südafrika
+Die im Folgenden genannten Merkmale gelten erdumspannend (geozonal) für Regionen bis zu rund 2000 m Meereshöhe. Höher gelegene Gebiete weisen häufig ein abweichendes (extrazonales) Gebirgsklima auf.
+
+Die Klimate der tropischen Trockenwälder und Trockensavannen (die ökologisch zusammen mit den Dornsavannenklimaten und Wüsten zu den trockenen Tropen gezählt werden) erhalten eine sehr hohe Globalstrahlung, die wie bei den Feuchtsavannenklimaten während der Vegetationszeit etwas geringer ist.[9] Die sehr hohen Jahresmitteltemperaturen zwischen 22 und 28 °C entsprechen ebenfalls denen der Feuchtsavannenklimate. Die Jahresniederschläge sind hingegen mit 500 bis 1200 mm (höchstens 1500 mm) nur noch mäßig bis mäßig hoch.[25]
+
+Die Niederschläge sind 4,5 bis 8 Monate in der Jahresmitte hoch bis sehr hoch, in der übrigen Zeit meist sehr gering (bis extrem gering). Auch hier gilt eine hohe Übereinstimmung über alle Kontinente der Tropen. Aufgrund der hohen Gesamtverdunstung[9] ist das Klima mit unter 7 feuchten Monaten[16] beziehungsweise 5 bis 7 ariden Monaten[26] semiarid oder semihumid.
+
+Die genannten Bedingungen von Licht, Wärme und Feuchtigkeit führen zu einer kurzen jährlichen Wachstumsperiode von um 180 Tagen.[13][27] Die potenzielle natürliche Vegetation besteht aus laubwerfenden regengrünen Trockenwäldern, die jedoch in vielen Regionen aufgrund regelmäßiger (natürlicher oder anthropogen verursachter) Waldbrände und/oder Verbiss durch große Herden von Pflanzenfressern (etwa in Afrika) sehr großflächig zu Trockensavannen degradiert sind. Sie bestehen aus einer geschlossenen Pflanzendecke aus hohen Gräsern (meist nicht über 80 cm) mit weitständigen Bäumen oder Baumgruppen aus Arten, die verschiedene Strategien gegen die Trockenheit entwickelt haben.
+
+Die Gesamtcharakteristik der Trockensavannenklimate kann mit „ganzjährig warm, kürzere Regen- als Trockenzeit mit kurzen Übergängen; sehr niedrige regengrüne Wälder oder trockene Kurzgrassavannen“ zusammengefasst werden.
+
+Folgende Klimatypen effektiver Klassifikationsmodelle decken dieses Makroklima ab:
+
+bei Troll & Paffen: V 3 (Wechselfeuchte Tropenklimate)
+bei Köppen & Geiger: Aw (tropisches Savannenklima)
+bei Trewartha: BS (Steppe or Semiarid → einschließlich Dornsavannen u. gemäßigter Steppen)
+Randtropen
+Die etwa 1000 Kilometer zwischen den baumgeprägten äußeren Tropen und den nahezu baumfreien Wüsten der Subtropen werden als Randtropen bezeichnet. Die teilweise bereits bis in die Subtropen reichenden Dornsavannenklimate weisen noch ein wechselfeuchtes Klima mit einer kurzen sommerlichen Regenzeit auf, während die polwärts anschließenden heißen Wüstenklimate ganzjährig arid sind. Obwohl sie zum Teil weit in die Tropen hineinragen, werden letztere klimatisch eher den Subtropen zugerechnet (und dort beschrieben).
+
+Dornsavannenklimate
+Dornsavannenklimate.png
+
+Caatinga-Dornsavanne in Brasilien
+Die im Folgenden genannten Merkmale gelten erdumspannend (geozonal) für Regionen bis zu rund 2000 m Meereshöhe. Höher gelegene Gebiete weisen häufig ein abweichendes (extrazonales) Gebirgsklima auf.
+
+Die Klimate der tropisch-subtropischen Dornsavannen erhalten eine sehr hohe Globalstrahlung, die jedoch während der Vegetationszeit nur gering ist.[9] Sie sind geprägt durch hohe Jahresmitteltemperaturen, die in der Regel zwischen 21 und 28 °C liegen.[24] Die geringen Jahresniederschläge bewegen sich zwischen 250 und 500 (maximal 750) mm.[25]
+
+Die Niederschläge sind 2 bis 5 Monate in der Jahresmitte mäßig bis sehr hoch, in der übrigen Zeit allerdings meist sehr gering (bis extrem gering). Wie für alle wechselfeuchten Tropenklimate haben auch die Dornsavannenklimate weltweit sehr ähnliche Klimaverläufe. Aufgrund der sehr hohen Gesamtverdunstung[9] ist das Klima mit unter 7 feuchten Monaten[16] beziehungsweise 8 bis 10 ariden Monaten[26] voll- oder semiarid.
+
+Die genannten Bedingungen von Licht, Wärme und Feuchtigkeit führen zu einer kurzen jährlichen Wachstumsperiode von um 180 Tagen.[13][27] Die potenzielle natürliche Vegetation weist bereits die für Trockenräume typischen Lücken auf und besteht aus Dornsträuchern oder wasserspeichernden Sukkulenten in niedrig grasbewachsenem Offenland oder weitständigem Dornwald (wobei die „Waldpflanzen“ hier nur in Ausnahmen Bäume sind).
+
+Die Gesamtcharakteristik der Dornstrauchklimate kann mit „ganzjährig warm, sehr kurze Regenzeit mit kurzen Übergängen zur langen Trockenzeit; lückige Dornstrauchsavannen“ zusammengefasst werden.[27]
+
+Folgende Klimatypen effektiver Klassifikationsmodelle decken dieses Makroklima ab:
+
+bei Troll & Paffen: V 4 (Tropische Trockenklimate)
+bei Köppen & Geiger: zum Teil Bsh (heißes Steppenklima)
+bei Trewartha: BS (Steppe or Semiarid → einschließlich Trockensavannen u. gemäßigter Steppen)
+Kalttropen
+
+Montaner Nebelwald am Kinabalu auf Borneo
+
+Subalpine Vegetation auf dem Ruwenzori-Gebirge in Uganda
+Als Kalttropen werden die Hochgebirgsklimate der Tropen bezeichnet, deren ökologische Verhältnisse nicht mit Gebirgen anderer Klimazonen vergleichbar sind.
+
+Wie bei allen Klimazonen werden die (extrazonalen) Gebirgsklimate in der Regel separat betrachtet, da sich die geozonale Abfolge nur auf die Tieflandklimate bezieht. Während die klimatischen Höhenstufen der Hochgebirge (in den Polregionen und Mittelbreiten gänzlich sowie in den Subtropen weitgehend) vergleichbare Vegetationstypen Richtung Gipfelregion wie im Tiefland Richtung Polarkreis aufweisen, werden sie namentlich nicht hervorgehoben. In den Tropen zeigen die Höhenstufen jedoch trotz ähnlicher Durchschnittstemperaturen bei den speziellen Klimabedingungen des solaren und thermischen Tageszeitenklimas eine vollkommen eigene Vegetation.
+
+Im Gegensatz zu den Außertropen erhalten alle Hänge tropische Gebirge – unabhängig von ihrer Ausrichtung – aufgrund der ganzjährig nahezu gleichen Sonnenbahn jeden Tag eine hohe Globalstrahlung, sodass die größten Temperaturunterschiede nicht zwischen Juli und Dezember, sondern zwischen Tag und Nacht auftreten. So schwanken etwa die Temperaturen in der alpinen Höhenstufe der äquatorialen Anden ganzjährig zwischen rund 8 °C am Tag und −3 °C in der Nacht. Mit durchschnittlich 1000 bis 2000 mm Jahresniederschlag und rund 75 % relativer Luftfeuchtigkeit sowie häufigem Nebel handelt es sich um ein humides Feuchtklima.
+
+Erst in der nivalen Höhenstufe – die hier erst über 4000 Meter beginnt –, reicht die tägliche Erwärmung nicht aus, um die Temperaturen über 0 °C anzuheben. Während sich die Höhe der Frost- und Schneegrenze in den Gebirgen mit Jahreszeitenklima im Winter in tiefere und im Sommer in höhere Lagen verschiebt – und damit einen erheblichen Einfluss auf die Vegetation hat –, sind die Grenzen in tropischen Hochländern immer gleich und relativ scharf gezogen.
+
+Spezielle Vegetationstypen der Kalttropen sind insbesondere die montanen immerfeuchten Nebelwälder, die in mindestens 1500 m Höhe beginnen und meistens bis auf über 3000 m reichen und die darüber beginnende einzigartige Páramovegetation bis auf über 5000 m Meereshöhe, die durch Horstgräser sowie Schopfrosetten hervorsticht.
+
+Naturraum
+Nach ökologischen Kriterien gliedern sich die Tropen in die Ökozonen der sommer- und immerfeuchten Tropen sowie der übergreifenden Tropisch / subtropischen Trockengebiete.
+
+Feuchte und trockene Tropen
+Aufgrund eines deutlichen Unterschiedes bei den Böden und Artenspektren existiert in der Ökologie eine weitere Unterteilung der Tropen in Feuchte Tropen – für die Klimate der tropischen Regenwälder zusammen mit den Feuchtsavannenklimaten – und Trockene Tropen – für die Trockensavannen-, Dornsavannen- und heißen Wüstenklimate. Klimatisch liegt die Grenze zwischen feuchten und trockenen Tropen etwa bei 1200 mm Jahresniederschlag.
+
+Ausdehnung und Ausmaße
+Auf die solare Abgrenzung bezogen beträgt der Abstand zwischen den beiden Wendekreisen 5200 km. Über den Landgebieten – insbesondere auf der Nordhalbkugel – liegt die thermische Grenze meistens jenseits der Wendekreise, sodass die maximale Breite bis zu 6300 km beträgt. Die größte Abweichung nach Norden liegt im Stau des westlichen Himalaya: Hier reichen die Tropen bis zum 31. Breitengrad, sodass die Subtropen über 800 km weiter nördlich beginnen. Der Umfang der Erde beträgt in der Mitte der Zone – am Äquator – rund 40.000 km. Die größten Verschiebungen Richtung Südpol liegen mit jeweils rund 300 km an den Ostseiten der Kontinente. Auf der Südhalbkugel finden sich auch zwei erhebliche Abweichungen gen Äquator: Die größte von über 1400 km wird durch den kalten Humboldtstrom verursacht. Eine weitere Nordabweichung liegt mit über 800 km an der Küste Südwest-Afrikas.
+
+Die Tropen bedecken in diesem Sinne (als größte Klimazone) über 200 Mio. km²: das sind etwa 40 % der Erdoberfläche. Berücksichtigt man die thermischen Verschiebungen, sind es mit 41 % etwas mehr.
+
+Gut 25 % der Tropen sind Landmassen. 36 % der irdischen Landoberfläche liegen in dieser Zone, wovon ca. 17 % auf die nördliche und 19 % auf die südlichen Tropen entfallen.[9]
+
+Fast 100 Länder liegen in den Tropen, davon über 60 nördlich und rund 30 südlich des Äquators. Sie erstrecken sich von der Südhälfte Mexikos über Mittelamerika und die Karibik über fast alle Länder Südamerikas (außer Chile, Argentinien und Uruguay); über fast alle Staaten Afrikas einschließlich Madagaskars (bis auf die Nordhälfte der afrikanischen Mittelmeerstaaten und Südafrika mit Lesotho und Eswatini); über die Südhälfte der arabischen Halbinsel entlang der südlichen Landesteile Irans und Pakistans über fast ganz Südasien bzw. den indischen Subkontinent südlich der hochasiatischen Gebirge und ganz Südostasien einschließlich der Grenzregionen Chinas und der Insel Taiwan; bis zu den Staaten der ozeanischen Inselwelt und der Nordhälfte Australiens.
+
+Ökologie
+
+Die mit Abstand höchste Artenvielfalt auf engstem Raum herrscht vor allem in den tropischen Regenwäldern
+
+Tropischer Park vor üppigen Andenhängen in Ecuador
+
+Tropische Früchte auf einem Markt
+Biologische Vielfalt
+Außer bei den Bienen ist der Artenreichtum aller im Folgenden genannten Artengruppen in den Tropen insgesamt wesentlich höher als in allen anderen Klimazonen; so leben etwa zwei Drittel aller Tierarten in tropischen Wäldern.[28] Betrachtet man die tropische Klimazone für sich, ist das Bild sehr differenziert:
+
+Wie auch in den Subtropen reicht die Biodiversität von „sehr niedrig“ bis „sehr hoch“ und ist stark von der Aridität abhängig: Außer in den Halbwüsten Australiens ist die Artenvielfalt in den tropischen Trockengebieten bei den Gefäßpflanzenarten „sehr gering“ bis „gering“. In den humiden Gebieten meist „mittel“ bis „hoch“. Die tropischen Regenwälder erreichen hier die höchsten Werte, die noch höher sind als die der meisten subtropischen Waldgebieten und die in den fünf Megadiversitätszentren der Erde (alle sind Bergwälder tropischer Hochgebirge) Zahlen von bis zu über 12.500 Pflanzenarten pro 10.000 km² erreichen.[Werte 1][29]
+
+Auch bei den Bäumen ist in den Tropen der Einfluss der Niederschläge deutlich zu erkennen: Während die tropischen Wüsten Afrikas mit 1328 Arten pro Biom und Australiens mit 823 Arten „geringe“ bis „sehr geringe“ Artenzahlen aufweisen, kommen die tropischen Regenwälder Afrikas auf „hohe“ (9044 Arten), Asiens auf bis zu „sehr hohe“ (14.595 Arten) und Südamerikas auf die höchsten Zahlen (23.197 Arten).[Werte 2][30]
+
+Mehr als 60 % aller beschriebenen Tierarten sind Insekten und zusammen mit den anderen Gliederfüßern (Krebstiere, Spinnentiere, Skorpione u. a.) kommt der Großteil aller Arten – einschließlich der mit Abstand größte Teil aller noch nicht beschriebener Arten – in den (feuchten) Tropen vor.
+
+Die gesamte Wirbeltierfauna der Tropen ist abgesehen von den extremen Trockengebieten (mit „geringen“ bis „sehr geringen“ Artenzahlen) in den feuchten Tropen „sehr hoch“.[Werte 3][31]
+
+Dieses Verteilungsmuster trifft – mit Ausnahme von Australien – in den besonders trockenen und besonders feuchten Räumen ebenso auf die Säugetiere,[Werte 4][32] Vögel[Werte 5][33] und Reptilien[Werte 6][34] zu. In Australien sind die Reptilien mit „sehr hohen“ Artenzahlen auch in den Wüsten und Halbwüsten vertreten.
+
+Auch die Amphibienarten spiegeln die Niederschlagshäufigkeit wieder, doch sie sind mit „hohen“ und „sehr hohen“ Zahlen nur im Amazonasbecken vertreten, während die anderen Regenwaldgebiete der Erde uneinheitliche Werte von „sehr gering“ bis „mittel“ aufweisen.[Werte 7][35] Ein recht ähnliches Verteilungsmuster der Artenvielfalt weisen die Fledermäuse auf. Der Verbreitungsschwerpunkt der Primaten liegt mit rund 16 Arten pro Vergleichsfläche in den afrikanischen Regenwäldern, im westlichen Amazonasgebiet sind es um die 12 Arten und in Südostasien 8.[36]
+
+Schließlich ist die Zahl Bienenarten erwähnenswert, die in allen eher flachen tropischen Gebieten nur mit „sehr geringen“ Artenzahlen vertreten sind. Nur in Gebirgen kommen sie auf ähnlich hohe Werte wie in den Außertropen.[37]
+
+Fauna und Flora
+Es gibt eine sehr große Zahl von Artengruppen (Taxone), die im Wesentlichen nur in den Tropen beheimatet sind. Zu den bekanntesten Tiergruppen, die rund um den Äquator zu finden sind, gehören die Affen und Halbaffen (Primaten) und die Krokodile. Auch viele Vogeltaxone – wie beispielsweise die Nageschnäbler – sind ausschließlich tropisch verbreitet. Papageien und Laufvögel haben ihren Verbreitungsschwerpunkt in tropischen Gebieten. Das trifft auch auf die Katzen sowie die bereits erwähnten Amphibien- und Fledermausarten zu.[28] Für die tropischen Regenwälder ist kennzeichnend, dass die Artenvielfalt und die Zahl verschiedener Lebensräume bzw. ökologischer Nischen mit einem ganzjährig gleichbleibenden Nahrungsangebot durch den „dreidimensionalen“ Strukturreichtum der Wälder enorm hoch, die Individuenzahl der Tiere jedoch gering ist.
+
+Unzählige bekannte Pflanzenarten (etwa Lebensmittel) stammen aus den Tropen oder sind nur dort überlebensfähig: Zum Beispiel die Kokospalme, Bananen, sehr viele Gewürzepflanzen und Südfrüchte, Kaffee, Kakao und Kautschuk sowie alle Vanillearten.
+
+Böden
+
+Typisch rostroter Ferralsol-Boden der Tropen (Praslin, Seychellen)
+Die meisten Böden der Tropen kommen auch in den Subtropen vor (Feuchtwälder = „Acrisol-Zone“, Halbwüsten = „Xerosol-Zone“, Wüsten = „Yermosol-Zone“). Typisch sind lediglich die Böden der Savannen und Trockenwälder, die die „Acrisol-Lixisol-Nitisol-Bodenzone“ bilden; sowie der Tropischen Regenwälder (Südamerikas und Afrikas), die die „Ferralsol-Zone“ ausmachen.[9]
+
+Besiedlung und Nutzung
+
+Brandrodung in Surinam
+Im Übergangsraum zu den Subtropen entstanden in den Tropen einige der historischen Hochkulturen. Die im Laufe der Neuzeit entstandenen Kolonialreiche hatten vor allem in den Tropen häufig sehr langen Bestand, sodass der europäische Einfluss auf die einheimischen Kulturen (einschließlich der Ausbeutung von Menschen – etwa als Sklaven – und Ressourcen – vor allem Gold, Silber, Baumwolle, Jute, Holz) hier besonders groß war.
+
+Insbesondere die Regenwälder sind Rückzugsräume für die letzten isoliert lebenden „Naturvölker“ der Erde. Auch insgesamt ist die Vielfalt der unterschiedlichen indigenen Völker, Ethnien und Sprachen nirgends größer als in den Tropen.
+
+Knapp die Hälfte der Tropen ist noch in einem naturnahen Zustand. Dabei handelt es sich vor allem um tropische Regenwälder. Zersiedelung und Übernutzung sind jedoch – bei regional wesentlich höherer Bevölkerungsdichte – viel stärker ausgeprägt als in den Wildnisregionen der hohen Breiten. Die anthropogene Überprägung der Naturlandschaften resultiert auf großen Flächen aus dem Jahrhunderte bis Jahrtausende langen Einfluss traditioneller Landwirtschaftsformen (siehe beispielsweise Terra preta, Amazonien). Industrialisierung spielt hier noch eine untergeordnete Rolle oder ist regional auf wenige Regionen begrenzt (z. B. Copperbelt und Kohlerevier Tete in Afrika, Camaçari in Südamerika, Multimedia Super Corridor in Südostasien).
+
+Die Landnutzung in den Tropen ist nach der jeweils vorherrschenden Vegetation sehr unterschiedlich. Traditionell spielen Formen des Gartenbaus, Wanderfeldbaus und der Landwechselwirtschaft in den feuchten Tropen, sowie Agropastoralismus, Nomadismus und mobile Tierhaltung in den trockenen Tropen eine wichtige Rolle – verbreitet noch in völliger oder ergänzender Subsistenzwirtschaft. Da in den tropischen Gebieten das größte Bevölkerungswachstum der Erde beobachtet wird, diese Gebiete gleichzeitig jedoch in verschiedener Hinsicht hoch schutzwürdig sind, spielt sie eine wichtige Rolle und umfasst heute etliche Problemkreise.
+
+Eine Auswahl besonders drängender Entwicklungen:
+
+Entwaldung der Regen- und Trockenwälder und Umbau in artenarme Agrarlandschaften mit erheblicher Verringerung der Biodiversität; irreversibler Artenverlust in immensem Ausmaß
+Mit der Regenwaldzerstörung einhergehende Klimaveränderungen (Zunehmende Trockenheit, Verlust von Kohlenstoffsenken)
+Übernutzung und Bodendegradation durch zu große Viehherden, zu kurze Brachezeiten, zu häufige Brandrodung, zu dichte Besiedlung
+Hunger, Verarmung, zunehmende Unselbstständigkeit und Migrationsbewegungen großer Bevölkerungsteile durch unangepasste Wirtschaftsweisen, Klimafolgen, Ausbeutung, Anbau von Cash Crops (wie Kaffee und Kakao statt Lebensmittel)
+Die Tropen als Topos
+
+Henri Rousseau: Der Äquator-Dschungel, 1909
+
+Frederic Edwin Church: Morning in the Tropics, 1877
+Die Tropen sind mehr als eine klimatische Kategorie, sie sind auch eine kulturelle Bestimmung.[38] Moderne Künstler befassen sich schon seit mehr als 100 Jahren mit der Interpretation der Tropen.[39] Die Kokospalme gilt als Symbol.
+
+Literatur
+Wilhelm Lauer: Vom Wesen der Tropen. Klimaökologische Studien zum Inhalt und Abgrenzung eines irdischen Landschaftsgürtels (= Akademie der Wissenschaften und der Literatur – Abhandlungen der Mathematisch-Naturwissenschaftlichen Klasse. 1975, Nr. 3). Akademie der Wissenschaften und der Literatur, Mainz u. a. 1975, ISBN 3-515-02091-8.
+Weblinks
+Commons: Tropics – Sammlung von Bildern, Videos und Audiodateien
+Wiktionary: Tropen – Bedeutungserklärungen, Wortherkunft, Synonyme, Übersetzungen
+Anmerkungen
+ Im Hinblick auf die Globale Erwärmung wurden die ariden und semiariden Klimate (bezüglich Wüstenbildung, Versteppung), die Schultz klimatisch als Trockene Mittelbreiten und Tropisch / subtropische Trockengebiete zusammenfasst, separat erfasst. Zudem die gemäßigten Regenwaldklimate, die Schultz zwar mehrfach erwähnt, dann aber nicht separiert.
+ Auf der Nordhalbkugel liegt die Grenze zu den Subtropen in Indien im Luftmassenstau des Himalaya mindestens 850 km nördlicher als der Wendekreis. Andernorts ist die mittlere Übereinstimmung der thermischen und solaren Grenze am Wendekreis relativ gleich. Durch die kalten Strömungen des Humboldtstroms vor West-Südamerika und des Benguelastroms vor Südwestafrika liegt die Grenze zu den Subtropen auf der Südhalbkugel jeweils mindestens 1000 km näher an den Äquator. Im mittleren Südafrika liegt die Subtropengrenze rund 300 km weiter polwärts. Ansonsten ist die Übereinstimmung im Mittel recht gut. (Abgeleitet aus commons-Karte Klimazonen (3 Modelle) und Makroklimate.png, Entfernungen per Messwerkzeug auf der Karte Die größten Gebirge der Erde (für Wikipedia), Google Maps, abgerufen am 6. November 2022.)
+Unterteilungen zur Artenvielfalt
+ Artenvielfalt Gefäßpflanzen
+auf 100 x 100 km
+< 200 = sehr gering
+200–1000 = gering
+1000–2000 = mittel
+2000–4000 = hoch
+4000–>5000 = sehr hoch
+ Artenvielfalt Bäume
+je Biom
+<1000 = sehr gering
+1000–3000 = gering
+3000–8000 = mittel
+8000–14.000 = hoch
+>14.000 = sehr hoch
+ Artenvielfalt Wirbeltiere
+auf 50 x 50 km
+1–101 = sehr gering
+102–192 = gering
+193–258 = mittel
+259–460 = hoch
+461–1286 = sehr hoch
+ Artenvielfalt Säugetiere
+auf jeweils 50.000 km²
+1–42 = sehr gering
+43–84 = gering
+85–126 = mittel
+127–168 = hoch
+169–210 = sehr hoch
+ Artenvielfalt Vögel
+auf 10 x 10 km
+1–135 = sehr gering
+136–271 = gering
+272–406 = mittel
+407–542 = hoch
+542–678 = sehr hoch
+ Artenvielfalt Reptilien
+auf 10 km²
+1–44 = sehr gering
+45–88 = gering
+89–132 = mittel
+133–176 = hoch
+177–221 = sehr hoch
+ Artenvielfalt Amphibien
+auf 50 x 50 km
+1–27 = sehr gering
+28–54 = gering
+55–81 = mittel
+82–108 = hoch
+109–136 = sehr hoch
+Quellen
+ Wilhelm Lauer, Daud Rafiqpoor, Peter Frankenberg: Die Klimate der Erde. Eine Klassifikation auf ökophysiologischer Grundlage der realen Vegetation. In Erdkunde, Band 50, Heft 4, Boss, Kleve 1996, PDF; 4,5 MB, abgerufen am 22. Dezember 2021, S. 276–277, 291–292, sowie Beilage V (10 Kartenseiten).
+ Michael Richter (Autor), Wolf Dieter Blümel et al. (Hrsg.): Vegetationszonen der Erde. 1. Auflage, Klett-Perthes, Gotha und Stuttgart 2001, ISBN 3-623-00859-1, S. 223, 257, 294.
+ Artikel „Die Tropen dehnen sich nach Norden aus“ in der Welt vom 4. Dezember 2007
+ Artikel: „Wälder im Klimawandel“ auf dem Hamburger Bildungsserver, abgerufen im Januar 2013
+ Naia Morueta-Holme, Kristine Engemann, Pablo Sandoval-Acuña, Jeremy D. Jonas, R. Max Segnitz, Jens-Christian Svenning: Strong upslope shifts in Chimborazo's vegetation over two centuries since Humboldt. In: PNAS. 112. Jahrgang, Nr. 41, Oktober 2015, S. 12741–12745, doi:10.1073/pnas.1509938112 (englisch).
+ Ermittelt über Online-Rechner: Sonnenstand an einem gegebenen Tag. Azimut- und Elevationstabelle. Online, abgerufen am 9. November 2022.
+ Materialien der Hochschule Mannheim, Institut für Energie- und Umwelttechnik: Mittlere jährliche Globalstrahlung, RRE 03/2006, PDF, abgerufen am 17. März 2023. S. 26 von 40 (nach RWE).
+ Heinz Nolzen (Hrsg.): Handbuch des Geographieunterrichts. Bd. 12/II, Geozonen, Aulis Verlag Deubner & Co. KG, Köln 1996, ISBN 3-7614-1619-9. S. 6.
+ Jürgen Schultz: Die Ökozonen der Erde. 4., völlig neu bearbeitete Auflage, Ulmer UTB, Stuttgart 2008, ISBN 978-3-8252-1514-9, S. 26, Abb. 0.3: Vergleich der Ökozonen nach ausgewählten quantifizierbaren Merkmalen, S. 30, Tab. 1.1: Flächengrößen der Ökozonen (Werte aufgeteilt nach Flächenberechnungen über die Karte „Klimazonen (3 Modelle) und Makroklimate“), S. 35. Tab. 2.1.: Hygrothermische Wachstumsbedingungen in den einzelnen Ökozonen (nach Klimazonen zusammengefasst, z. T. gemittelt), S. 79, Grafik: ‘‘Mittlere jährliche Biotemperatur‘‘, S. 352–353 Abb. B Bodenzonen der Erde.
+ Abgeleitet aus commons-Karte „GOME.uviecclimyear lr.gif“, basierend auf GOME-Spektrometerdaten des ESA-Satelliten ERS-2, wie vom KNMI (Königliches Niederländisches Meteorologisches Institut) veröffentlicht.
+ Werner H. Terjung, Stella S-F. Louie: Energy Input-Output Climates of the World: A Preliminary Attemp. Los Angeles 1971, PDF; 1,75 MB, abgerufen am 3. Juli 2022, S. 136, 148, 152, 157, 158, 159, 164.
+ Monika Sánchez: Was ist die thermische Amplitude? Information auf meteorologianenred.com, abgerufen am 19. Dezember 2022.
+ Elgene Owen Box: World Bioclimatic Zonation. In Elgene Owen Box (Hrsg.): Vegetation Structure and Function at Multiple Spatial, Temporal and Conceptual Scales. Springer International Publishing, Schweiz 2016, ISBN 978-3-319-21451-1, PDF, S. 6: Tabelle 2 „Early evolution of temperature-based limits for world climatic zonation“ mit den Grenzwerten nach Supan und Köppen, S. 12: Tabelle der Haupt-Klimazonen.
+ Carl Troll, Karlheinz Paffen: Karte der Jahreszeiten-Klimate der Erde. In Erdkunde, Band 18, Heft 1, Dümmler, Bonn 1964, PDF; 10,9 MB, abgerufen am 25. Juni 2022, S. 25–27, Beilage Legende zur Karte. ohne Seitenangabe bzw. S. 38 des PDF.
+ H. Kehl: ‘‘Vegetationsökologie Tropischer & Subtropischer Klimate (LV von 1986 – 2016)‘‘, online abgerufen am 26. September 2022, Abschnitt: ‘‘Ecological zone breakdown used in Forest Resources Assessment (FRA) 2000 of FAO‘‘, Tab. A6-05.
+ Die geoökologischen Zonen der Erde nach Müller-Hohenstein (1989) in Heinz Nolzen (Hrsg.): Handbuch des Geographieunterrichts. Bd. 12/I, Geozonen, Aulis Verlag Deubner & Co. KG, Kšln 1995, ISBN 3-7614-1618-0, S. 9, Tabelle Abb. 1.2.1/2.
+ Wilhelm Lauer, Daud Rafiqpoor, Peter Frankenberg: Die Klimate der Erde. Eine Klassifikation auf ökophysiologischer Grundlage der realen Vegetation. In Erdkunde, Band 50, Heft 4, Boss, Kleve 1996, PDF; 4,5 MB, abgerufen am 22. Dezember 2021, S. 276–277, 295, sowie Beilage V (10 Kartenseiten).
+ Sascha Leufke (Autor), Michael Hemmer, Gabriele Schrüfer, Jan Christoph Schubert (Hrsg.): Klimazonen im Geographieunterricht - Fachliche Vorstellungen und Schülervorstellungen im Vergleich in Münsteraner Arbeiten zur Geographiedidaktik. Band 02, 2011, PDF; 5,9 MB, abgerufen am 31. Juli 2022, hier: ‘‘Das „Baukastensystem“ von SIEGMUND (1999)‘‘, S. 27 (–30) - sowie ergänzend - Westermann Kartographie (Hrsg.): Weltatlas. 1. Auflage 2008, Bildungshaus Schulbuchverlage, Braunschweig 2009, ISBN 978-3-14-100700-8, S. 226.
+ Roger Smith: Lectures on Tropical Meteorology, Figure 4. (Zonally averaged components of the absorbed solar flux and emitted thermal infrared flux at the top of the atmosphere) und Figure 5. (Mean annual precipitation as a function of latitude). Auf www.meteo.physik.uni-muenchen.de, 2015, online, abgerufen am Freitag, 30. September 2022
+ Walter Roedel: Physik unserer Umwelt: Die Atmosphäre. Zweite überarbeitete und aktualisierte Auflage, Springer, Berlin/Heidelberg 1994, ISBN 978-3-540-57885-7, S. 189–191.
+ Walter Roedel: Physik unserer Umwelt: Die Atmosphäre. Zweite überarbeitete und aktualisierte Auflage, Springer, Berlin/Heidelberg 1994, ISBN 978-3-540-57885-7, S. 191.
+ atmosphärische Zirkulation. In: Spektrum.de Lexikon der Geowissenschaften. Spektrum der Wissenschaft Verlagsgesellschaft mbH, abgerufen am 3. November 2022.
+ Bernhard Berking, Werner Huth: Handbuch Nautik - Navigatorische Schiffsführung. 1. Auflage. Seehafen Verlag, 2010, S. 277–280.
+ Abgeleitet aus Klimadiagrammen, alle abgerufen am 15. Januar 2023:
+Vorwiegend: Klimadiagramme weltweit (Martin-Luther-Universität Halle-Wittenberg, Institut für Geowissenschaften und Geographie)
+Bei fehlenden Regionen zur Ergänzung (selten):
+www.klimadiagramme.de
+climate-data.org
+climatecharts.net
+ In der Biogeographie existiert eine Vielzahl von Grenzwerten verschiedener Autoren, die voneinander abweichen, zum Teil veraltet sind und bis zur Jahrtausendwende nie verifiziert wurden (siehe Quelle Beierkuhnlein & Fischer, S. 249 sowie Geozonen#Datengrundlage).
+Die hier genannten Spannen der Jahresdurchschnittstemperaturen und -niederschlagssummen sind gemittelte Werte aus den Bezugsrahmen, die zwei moderne Studien (2017 u. 2021) zur Ermittlung der realistischen Abgrenzungen von Biomen geschaffen haben. Für die detaillierteren Biom-Untergliederungen und unter Berücksichtigung konzeptionell festliegender Werte wurde nach Möglichkeit auf die Einteilungen und Festlegungen von Müller-Hohenstein (1989) und die Nennung in Pfadenhauer & Klötzli (2014) zurückgegriffen, da sie den Studienergebnissen am ehesten entsprechen.
+Carl Beierkuhnlein u. Jan-Christopher Fischer: Global Biomes and Ecozones – Conceptual and Spatial Communalities and Discrepancies. In: Erdkunde. Band 75, Nr. 4, 2021 (erdkunde.uni-bonn.de PDF). ISSN 2702-5985, S. 257–261 sowie ergänzend Appendix III: ‘2D Kernel graphs for all condensed biomes’ doi:10.3112/erdkunde.2021.04.01b.
+Mingkai Jiang, Benjamin Felzer, Uffe N Nielsen, Belinda E. Medlyn: Biome‐specific climatic space defined by temperature and precipitation predictability, Research Paper in Wiley Global Ecology an Biogeography, September 2017, doi:10.1111/geb.12635, S. 1275–1277.
+Jörg S. Pfadenhauer, Frank A. Klötzli: Vegetation der Erde. Springer Spektrum, Berlin/Heidelberg 2014, ISBN 978-3-642-41949-2. S. 476.
+Klaus Müller-Hohenstein: Die geoökologischen Zonen der Erde (1989, S. 6–7), in Heinz Nolzen (Hrsg.): Handbuch des Geographieunterrichts. Bd. 12/I, Geozonen, Aulis Verlag Deubner & Co. KG, Köln 1995, ISBN 3-7614-1618-0. S. 9.
+ Josef Schmithüsen: Allgemeine Vegetationsgeographie. 2. verbesserte Auflage, De Gruyter, Berlin 1961. S. 182, 184, 194, 196–197, 200–201.
+ Matthias Forkel: Effektive Klimaklassifikation nach Troll und Paffen, auf klett.de: TERRASSE online, 23. September 2019, abgerufen am 30. Juni 2022 – geringfügig angepasst.
+ National Geographic (Hrsg.): Atlas der wilden Tiere. Deutsche Ausgabe, National Geographic Deutschland, Hamburg 2009, ISBN 978-3-86690-117-9, S. 18, 258–279.
+ Wilhelm Barthlott et al.: Geographische Muster der Gefäßpflanzenvielfalt im kontinentalen und globalen Maßstab. Erschienen in Erdkunde Bd. 61, H. 4 (Oktober bis Dezember 2007) S. 305–315, Online-Version.
+ Roberto Cazzolla Gatti, Peter B. Reich, Javier G. P. Gamarra, Jingjing Liang: The number of tree species on Earth. 31. Januar 2021, doi:10.1073/pnas.2115329119, Fig. 3 sowie Tabelle S2 im Appendix-PDF.
+ Neil Cox, Bruce E. Young, Philip Bowles et al.: A global reptile assessment highlights shared conservation needs of tetrapods. In Nature 605, 285–290, 27. April 2022, doi:10.1038/s41586-022-04664-7, hier: Darstellung Weltkarten aus „atlas of life“ in [ https://reptilesmagazine.com/researchers-map-distribution-and-density-of-worlds-reptiles/ reptilesmagazine.com].
+ Jenkins et al.: Map of global patterns of mammalian species richness (2013). In Richard D. Stevens, Rebecca J. Rowe, Catherine Badgley: Gradients of mammalian biodiversity through space and time. Journal of Mammalogy, Nr. 100, Mai 2019, doi:10.1093/jmammal/gzy024, S. 1071, Fig. 1.
+ Clinton N. Jenkins (Florida International University): Birds of the World. Auf biodiversitymapping.org, Karten nach BirdLife International, Version 7, 2018.
+ Shai Meiri, Uri Roll, Richard Grenyer et al.: Data from: The global distribution of tetrapods reveals a need for targeted reptile conservation, Dryad, Dataset. 2017, doi:10.5061/dryad.83s7k. Auf den Daten beruhende Karte auf shaimeirilab.weebly.com.
+ Clinton N. Jenkins (Florida International University): Amphibians of the World. Auf biodiversitymapping.org, Karten nach Daten der IUCN, Dezember 2017.
+ Clinton N. Jenkins (Florida International University): Mammals of the World. Auf biodiversitymapping.org, Karten nach Daten der IUCN, März 2018.
+ Michael C. Orr, Alice C. Hughes, Douglas Chesters et al.: Global Patterns and Drivers of Bee Distribution. 2021, doi:10.1016/j.cub.2020.10.053, hier: Darstellung Weltkarte aus sci.news.
+ Martin Meggle: Die Tropendämmerung (2008). Essay auf der Seite des Goethe-Instituts.
+ „Die Tropen“ – Erfolgsausstellung zu Gast in Kapstadt (Memento vom 17. Februar 2013 im Webarchiv archive.today). Medieninfo März 2009, Goethe-Institut.
+Einklappen
+Klimazonen
+Polargebiete | Subpolare Klimazonen | Gemäßigte Zonen (kaltgemäßigte | kühlgemäßigte) | Subtropen | Tropen
+
+Normdaten (Geografikum): GND: 4060997-2 | VIAF: 248970673
+Kategorien: KlimaKlimageographieBiogeographieTropenRegion
+Navigationsmenü
+Nicht angemeldet
+Diskussionsseite
+Beiträge
+Benutzerkonto erstellen
+Anmelden
+ArtikelDiskussion
+LesenQuelltext anzeigenVersionsgeschichte
+Wikipedia durchsuchen
+Hauptseite
+Themenportale
+Zufälliger Artikel
+Mitmachen
+Artikel verbessern
+Neuen Artikel anlegen
+Autorenportal
+Hilfe
+Letzte Änderungen
+Kontakt
+Spenden
+Werkzeuge
+Links auf diese Seite
+Änderungen an verlinkten Seiten
+Spezialseiten
+Permanenter Link
+Seiten­informationen
+Artikel zitieren
+Wikidata-Datenobjekt
+Drucken/​exportieren
+Als PDF herunterladen
+Druckversion
+In anderen Projekten
+Commons
+
+In anderen Sprachen
+Беларуская
+English
+हिन्दी
+Lietuvių
+Polski
+Русский
+Українська
+اردو
+中文
+90 weitere
+Links bearbeiten
+Diese Seite wurde zuletzt am 7. April 2023 um 08:31 Uhr bearbeitet.
+Abrufstatistik · Autoren
+
+Der Text ist unter der Lizenz „Creative Commons Attribution/Share Alike“ verfügbar; Informationen zu den Urhebern und zum Lizenzstatus eingebundener Mediendateien (etwa Bilder oder Videos) können im Regelfall durch Anklicken dieser abgerufen werden. Möglicherweise unterliegen die Inhalte jeweils zusätzlichen Bedingungen. Durch die Nutzung dieser Website erklären Sie sich mit den Nutzungsbedingungen und der Datenschutzrichtlinie einverstanden.
+Wikipedia® ist eine eingetragene Marke der Wikimedia Foundation Inc.
+DatenschutzÜber WikipediaImpressumMobile AnsichtEntwicklerStatistikenStellungnahme zu CookiesWikimedia FoundationPowered by MediaWiki

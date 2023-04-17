@@ -1,0 +1,366 @@
+
+[elrejt]
+Bővítsd te is a roma kultúrával kapcsolatos ismereteket a magyar Wikipédián!
+
+Szeretnéd a környező országok kultúráját megismerni? Március 21. és május 31. között újra kipróbálhatod magad a CEE Tavasz szócikkíró versenyen!
+
+Irracionális számok
+A Wikipédiából, a szabad enciklopédiából
+
+A 
+2
+{\displaystyle \sqrt{2}} irracionális szám szemléltetése
+Irracionális számnak nevezzük az olyan valós számokat, melyek nem racionálisak, vagyis amelyek nem írhatók fel két egész szám hányadosaként. Az ilyen számok mindig végtelen, nem szakaszos tizedestörtek. A név ugyan latin, de az értelme görög. Az ókori görög 'mathéma' csak a természetes számokat tartotta számoknak. A törtek (bár úgy számoltak velük, mint mi) számukra csak két szám arányai voltak. Súlyos csapás volt az akkori bölcseletre, mikor rájöttek, hogy az egység oldalú négyzet átlója semmilyen aránnyal nem fejezhető ki.[1] Ekkor kezdődött a geometria tudománnyá válása, mert sok, aránnyal ki nem fejezhető mennyiség (elvileg) pontosan kiszerkeszthető.
+
+Nincs mindenki által egységesen elfogadott jelölés az irracionális számokra, azonban a 
+ 
+∗{\mathbb  {Q}}^{*} és az 
+ 
+{\mathbb  {I}} jelöléseket használják leggyakrabban. A félreértésekre legkevésbé lehetőséget adó jelölés az 
+ 
+∖
+ 
+{\mathbb  {R}}\backslash {\mathbb  {Q}} (azaz a nem racionális valós számok).
+
+Georg Cantor bebizonyította, hogy majdnem minden valós szám irracionális: a racionális számok halmaza megszámlálható, a valósaké (és így az irracionálisaké is) viszont kontinuum számosságú. Az irracionális számok első ma is elfogadott definícióját Dedekind és más kutatók adták meg.
+
+Nevezetes irracionális számok például az 
+e
+{\displaystyle {\rm {e}}} Euler-féle szám, és a 
+ \pi  pí, melyek transzcendensek is. További nevezetes irracionális szám a 
+2
+{\displaystyle \sqrt{2}} (a négyzetgyök 2) és az aranymetszés arány, a Φ (görög nagy fí), ezek algebrai számok.
+
+
+Tartalomjegyzék
+1	Történetük
+2	Algebrai és transzcendens számok
+3	Műveletek irracionális számokkal
+4	Bizonyos számok irracionalitása
+5	Számosság
+6	Jegyzetek
+7	Források
+8	Fordítás
+Történetük
+Az irracionális számok felfedezése jelenlegi ismereteink szerint Püthagorasz filozófus-iskolájához, a püthagoreusokhoz kötődik. Valószínűleg tőlük származik az a geometriai regressus ad infinitum-bizonyítás, mely szerint gyök kettő irracionális (korabeli, geometriai fogalmakkal: egy négyzet átlója összemérhetetlen annak oldalával). A püthagoreusok számára ez paradoxon volt, mivel felfogásuk szerint a természetben minden leírható arányokkal, végső soron pozitív egész számokkal. A görögök csak jóval később jutottak oda, hogy feloldják ezt a paradoxont (Eudoxosz arányelmélete). Eukleidész Elemei mai egzaktsággal definiálja az irracionális számokat. Modern nyelvekre csak Karl Weierstraß és Richard Dedekind fordította le. A négyzetgyök kettő irracionális voltának a könyvben leírt bizonyítását tanítják az iskolákban. Kurt von Fritz szerint azonban az irracionális számokat a pentagramma mérésével fedezték fel.
+
+Az irracionális számok pitagoreusok általi felfedezéséhez külön történet kötődik. Eszerint a felfedezés válságot okozott az ókori görög matematikában, hiszen kiderült, hogy mégsem lehet mindent arányokkal leírni. A történetet Metapontoszi Hippaszosszal mesélik tovább, aki az i. e. 5. században írásban ismertette a felfedezést. Mivel ezzel megszegte a pitagoreusok titkos megállapodását, azért amikor a tengerbe fulladt, azt a pitagoreusok isteni büntetésként értékelték. Egyes változatok szerint ő tette ezt a felfedezést; és van olyan változat is, amelyben a pitagoreusok maguk fojtották tengerbe.
+
+A tudománytörténészek szerint a történet egyik változata sem igaz. Nem találták a válság nyomait, és arra utaló jeleket, hogy az irracionális számok létezését titokban kellett volna tartani. A félreértést az okozta, hogy az ókori görögök kimondhatatlannak (arrhéton) nevezték ezeket a számokat. Az viszont igaz, hogy a felfedezés nagy változást hozott az ókori görög matematikába.
+
+Al-Hvárizmi már hallható és nem hallható számoknak nevezte a racionális, illetve irracionális számokat. A nem hallhatót latinra később surdus-nak (siket) fordították.[2] Ezt a kifejezést később Európában is alkalmazták.[3] Filep László kiemeli, hogy Newton is alkalmazta ezt a terminológiát.[4] Felfogása csak lassan terjedt, és az irracionális számokra igazán csak akkor kezdtek figyelmet fordítani, miután J. H. Lambert (1728-1777) svájci matematikus lánctörtekre hagyatkozva bebizonyította, hogy nemcsak gyökmennyiségek lehetnek irracionálisak, de olyan központi fontosságú matematikai állandók is, mint az Euler-féle e szám.
+
+Algebrai és transzcendens számok
+A valós számok halmaza két diszjunkt részhalmazra bontható, az algebrai számokra (
+ 
+{\displaystyle \mathbb {A} }, ez részteste 
+ 
+{\mathbb  {R}}-nek) és transzcendens számokra (
+ 
+{\mathbb  {T}}). Az algebrai számok, definíciójuk szerint, gyökei valamilyen nemnulla, racionális együtthatós polinomnak. A racionális számok mind algebraiak. A nem algebrai számok a transzcendens számok, melyek nyilvánvaló módon irracionálisak. Vannak euklideszi módon szerkeszthető és nem szerkeszthető irracionális számok (négyzetgyök kettő szerkeszthető, köbgyök kettő azonban nem), a transzcendens számok ellenben nem szerkeszthetők és nem gyökei semmilyen egész együtthatós polinomnak sem. Ilyen például a π és az e.
+
+Az algebrai számok a racionális számok véges dimenziós, a transzcendensek pedig a végtelen dimenziós elemi testbővítéseinek felelnek meg.
+
+Műveletek irracionális számokkal
+Ha irracionális számok között a négy alapműveletet végezzük, kaphatunk racionális számokat és irracionális számokat egyaránt. Nyilvánvaló példák:
+2
+−
+2
+=
+0
+{\displaystyle {\sqrt {2}}-{\sqrt {2}}=0}
+2
+⋅
+2
+=
+2
+{\displaystyle {\sqrt {2}}\cdot {\sqrt {2}}=2}
+2
++
+2
+=
+2
+2
+{\displaystyle {\sqrt {2}}+{\sqrt {2}}=2{\sqrt {2}}}
+2
+⋅
+3
+=
+6
+{\displaystyle {\sqrt {2}}\cdot {\sqrt {3}}={\sqrt {6}}}
+
+Egy racionális és egy irracionális szám összege, különbsége, valamint – ha a racionális szám 0-tól különböző – szorzata és hányadosa is irracionális.
+
+Bizonyos számok irracionalitása
+
+Az egyik legismertebb matematikai állandó a 
+ \pi 
+Számos nevezetes valós számról ismert, hogy irracionális, e bizonyítások nehézsége különböző.
+
+Például, ha a pozitív egész a szám nem négyzetszám, akkor 
+ 
+\sqrt{a} irracionális. Ez igazolható a számelmélet alaptétele segítségével, de geometriai úton is.
+Hasonlóan irracionálisak a 
+ 
++
+1
+ 
+{\displaystyle {\sqrt {\tfrac {m+1}{m}}}} alakú számok, ha m egész. Az ilyen alakú számok irracionális voltát egy pitagoreus, Arkhütasz látta be. Euklidész Elemek című műve tartalmazzák a négyzetgyök kettő irracionális voltának bizonyítását; az általánosabb 
+ 
++
+1
+ 
+ 
+{\displaystyle {\sqrt[{n}]{\tfrac {m+1}{m}}}} esettel Zeneelméletében foglalkozott.
+Az aranymetszés 
+Φ
+=
+1
++
+5
+2
+{\displaystyle \textstyle \Phi ={\frac {1+{\sqrt {5}}}{2}}} egy további másodfokú irracionális szám.
+Irracionálisak az egész együtthatós, normált polinomok gyökei, kivéve ha egészek. Speciálisan, a nem négyzetszámok négyzetgyökei is irracionálisak, így 
+2
+,
+3
+,
+5
+,
+6
+,
+…{\displaystyle {\sqrt {2}},{\sqrt {3}},{\sqrt {5}},{\sqrt {6}},\dotsc } irracionális.
+Belátható, hogy ha 
+ 
+>
+4
+{\displaystyle n>4} egész szám, akkor 
+t
+g
+ 
+ 
+{\displaystyle \mathrm {tg} {\frac {\pi }{n}}} irracionális.
+e
+ {\displaystyle {\rm {e^{\pi }}}} transzcendenciáját a Gelfond-Schneider-tétel bizonyítja.
+2
+2
+{\displaystyle 2^{\sqrt {2}}} transzcendenciáját Carl Ludwig Siegel óta tudjuk, de igazolható a Gelfond-Schneider-tétellel is.
+Szintén a a Gelfond-Schneider-tétel bizonyítja 
+2
+2
+{\displaystyle {\sqrt {2}}^{\sqrt {2}}} transzcendenciáját.
+A 
+ 
+=
+2,622
+057
+…{\displaystyle \varpi =2{,}622057\ldots } lemniszkáta-konstans transzcendens. (Theodor Schneider, 1937)
+Solomon W. Golomb 1963-ban belátta, hogy a Fermat-számok reciprokainak összege irracionális.[5] Ugyanis
+∑
+ 
+=
+0
+∞
+1
+ 
+ 
+=
+∑
+ 
+=
+0
+∞
+1
+2
+2
+ 
++
+1
+≈
+0,596
+06317211782167942379392586279
+{\displaystyle \sum _{n=0}^{\infty }{\frac {1}{F_{n}}}=\sum _{n=0}^{\infty }{\frac {1}{2^{2^{n}}+1}}\approx 0{,}59606317211782167942379392586279} ((A051158 sorozat az OEIS-ben))
+Szintén irracionálisak a 
+0,123
+4567891011121314
+…{\displaystyle 0{,}1234567891011121314\dots } és a 
+0,235
+71113171923
+…{\displaystyle 0{,}23571113171923\dots } számok (ezeket úgy kapjuk, hogy egymás után írjuk a természetes számok illetve a prímszámok jegyeit), hiszen mindkettő tartalmaz tetszőlegesen hosszú 0-kból álló szakaszt. A prímszámok esetében ennek igazolásához szükségünk van Dirichlet tételére: minden n-re van 
+ 
+⋅
+10
+ 
++
+1
+{\displaystyle k\cdot 10^{n}+1} alakú prímszám.
+Általánosabban, a normális számok irracionálisak.
+Könnyű belátni e irracionalitását. Ezt először Euler bizonyította 1737-ben, majd Charles Hermite belátta 1873-ban, hogy transzcendens. Ennél valamivel nehezebb π irracionalitásának igazolása, de megoldatlan, hogy 
+ 
++
+ {\displaystyle e+\pi } irracionális-e. Sőt, semmilyen (n, m) egész számpárra nem ismert, hogy mπ + ne irracionális-e. Azt viszont könnyű látni, hogy 
+ 
++
+ {\displaystyle e+\pi } és 
+ 
+ {\displaystyle e\pi } közül nem lehet mindkettő racionális. Nem ismert, hogy a γ = 0,57721... Euler–Mascheroni-állandó irracionális-e vagy sem. Csak sejtés van arról, hogy 2e, πe, π√2, ππ, ee irracionálisak, viszont eπ irracionalitása ismert, ezt 2017-ben bizonyították.[6] További sejtés, hogy 
+2
+e
+{\displaystyle 2^{\rm {e}}}, 
+ 
+e
+{\displaystyle \pi ^{\rm {e}}}, 
+ 
+2
+{\displaystyle \pi ^{\sqrt {2}}}, 
+ 
+ {\displaystyle \pi ^{\pi }}, 
+e
+e
+{\displaystyle {\rm {e^{\rm {e}}}}} vagy hogy 
+ 
+=
+0,577
+2
+…{\displaystyle \gamma =0{,}5772\ldots } irracionális.
+
+Erdős 1948-ban igazolta,[7] hogy a
+
+∑
+ 
+=
+1
+∞
+1
+2
+ 
+−
+1
+{\displaystyle \sum _{n=1}^{\infty }{\frac {1}{2^{n}-1}}}
+sor összege irracionális szám. Azt azonban csak 1991-ben sikerült belátnia Peter Borweinnek,[8] hogy
+
+∑
+ 
+=
+1
+∞
+1
+2
+ 
++
+1
+{\displaystyle \sum _{n=1}^{\infty }{\frac {1}{2^{n}+1}}}
+is irracionális. Hosszú ideig nevezetes probléma volt, majd 1977-ben Roger Apéry igazolta, hogy ζ(3) irracionális, ahol 
+ 
+(
+3
+)
+=
+∑
+ 
+=
+1
+∞
+1
+ 
+3
+{\displaystyle \textstyle \zeta (3)=\sum _{n=1}^{\infty }{\frac {1}{n^{3}}}}. Ezt a számot tiszteletére Apéry-konstansnak nevezték el.
+
+Számosság
+A valós számok számossága a megszámlálható végtelennél nagyobb, ellenben a racionális számok halmaza megszámlálható. Ebből következik, hogy az irracionális számok halmaza nem megszámlálható. Cantor továbbá azt is megmutatta, hogy az algebrai számok halmaza megszámlálható, hiszen az egész együtthatós polinomokból is megszámlálható sok van. Ebből következik, hogy a komplex számok bármely megszámlálható részhalmazának algebrai lezártja is megszámlálható, ezért nem tartalmazza az összes valós számot.
+
+Jegyzetek
+ Kline 1990, p. 32.
+ Smith, David Eugene. History of Mathematics, vol. II. Boston: Ginn and Co., 1925
+ Earliest Known Uses of Some of the Words of Mathematics. [2008. szeptember 19-i dátummal az eredetiből archiválva]. (Hozzáférés: 2007. június 28.)
+ A valós szám fogalmának kialakulása. Polygon (matematikai, szakdidaktikai közlemények) X./1.; 2000. június; 13.-34. o.
+ Solomon W. Golomb: On the sum of the reciprocals of the Fermat numbers and related irrationalities pp. 475–478, 1963. [2016. március 21-i dátummal az eredetiből archiválva]. (Hozzáférés: 2019. május 25.)
+ Nelson A. Carella: The Product eπ Is Irrational (PDF; 214 kB), 2017-06-19
+ P. Erdős: On arithmetical properties of Lambert series, Journal of Indian Math. Soc.,12(1948), 63-66.
+ Peter Borwein: On the irrationality of 
+∑
+1
+ 
+ 
++
+ 
+{\displaystyle \sum {\frac {1}{q^{n}+r}}}, J. Number Theory, 37(1991), 253-259.
+Források
+Püthagorasz sötét oldala, YOUPROOF[halott link]
+Szabó Árpád: Az irracionalitás fölfedezése (alternatív elérés)
+Az irracionális számok a MathWorld-ön
+Sok és részletes bizonyítás
+* Tom Müller: Irrationalitätsbeweise. Heldermann Verlag, Lemgo 2014, ISBN 978-3-88538-125-9.
+Fordítás
+Ez a szócikk részben vagy egészben az Irrationale Zahl című német Wikipédia-szócikk fordításán alapul. Az eredeti cikk szerkesztőit annak laptörténete sorolja fel. Ez a jelzés csupán a megfogalmazás eredetét jelzi, nem szolgál a cikkben szereplő információk forrásmegjelöléseként.
+m v sz
+Számhalmazok
+ 
+{\mathbb  {N}} – Természetes számok 
+ 
+{\mathbb  {Z}} – Egész számok Negatív és nemnegatív számok 
+ 
+{\mathbb  {Q}} – Racionális számok Irracionális számok 
+ 
+{\mathbb  {R}} – Valós számok 
+ 
+{\mathbb  {C}} – Komplex számok 
+ 
+{\displaystyle \mathbb {H} } – Kvaterniók 
+ 
+{\displaystyle \mathbb {O} } – Októniók Algebrai számok Transzcendens számok Szürreális számok p-adikus számok Gauss-egészek Eisenstein-egészek
+Nemzetközi katalógusok	
+WorldCat LCCN: sh85093213 GND: 4162426-9 NKCS: ph812800
+Matematika Matematikaportál • összefoglaló, színes tartalomajánló lap
+Kategória: Számok
+Navigációs menü
+nem vagy bejelentkezve
+vitalap
+közreműködések
+fiók létrehozása
+bejelentkezés
+szócikkvitalap
+olvasásszerkesztéslaptörténet
+Keresés a Wikipédián
+Kezdőlap
+Tartalom
+Kiemelt szócikkek
+Friss változtatások
+Lap találomra
+Tudakozó
+Részvétel
+Kezdőknek
+Segítség
+Közösségi portál
+Kapcsolatfelvétel
+Adományok
+Eszközök
+Mi hivatkozik erre?
+Kapcsolódó változtatások
+Speciális lapok
+Hivatkozás erre a változatra
+Lapinformációk
+Hogyan hivatkozz erre a lapra?
+Wikidata-adatlap
+Nyomtatás/​exportálás
+Könyv készítése
+Letöltés PDF-ként
+Nyomtatható változat
+Társlapok
+Wikimédia Commons
+
+Más nyelveken
+English
+Беларуская
+Deutsch
+Français
+Lietuvių
+Polski
+Русский
+Українська
+中文
+76 további
+Hivatkozások szerkesztése
+A lap utolsó módosítása: 2022. november 28., 23:33
+A lap szövege Creative Commons Nevezd meg! – Így add tovább! 3.0 licenc alatt van; egyes esetekben más módon is felhasználható. Részletekért lásd a felhasználási feltételeket.
+Adatvédelmi irányelvekA WikipédiárólJogi nyilatkozatMobil nézetFejlesztőkStatisztikákSütinyilatkozatWikimedia FoundationPowered by MediaWiki
