@@ -37,7 +37,7 @@ public class Perceptron {
         }else{
             error = -1 - output;
         }
-        // Update weights and bias
+
         for (int i = 0; i < this.weights.length; i++) {
             this.weights[i] += this.learningRate * error * input[i];
         }

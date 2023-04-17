@@ -7,8 +7,6 @@ public class Main {
         new Main();
     }
 
-
-
     public PerceptronLayer perceptrons;
     public Map<String, ArrayList<Value>> valuesTrain;
     public Map<String, ArrayList<Value>> valuesTest;
@@ -48,7 +46,6 @@ public class Main {
                 for (Value k : j) {
                     i++;
                     if (!(perceptrons.classify(k.arr).equals(k.name))) {
-
                         //System.out.println(k.name + " " + i);
                         zle++;
                         good = false;
@@ -61,38 +58,6 @@ public class Main {
         }
         System.out.println(dobrze + " " + zle);
 
-       /* for (Perceptron perceptron : perceptrons) {
-            boolean good = true;
-            int ile = 0;
-            int zle = 0;
-            while (good) {
-                ile = 0;
-                zle = 0;
-                good = false;
-                for (ArrayList<Value> j : valuesTrain.values()) {
-                    for (Value k : j) {
-                        perceptron.train(k.arr, k.name);
-                    }
-                }
-
-                for (ArrayList<Value> j : valuesTest.values()) {
-                    int i=0;
-                    for (Value k : j) {
-                        if (perceptron.get(k.arr) != perceptron.looking.equals(k.name)) {
-
-                            //System.out.println(k.name + " " + i);
-                            zle++;
-                            good = true;
-                        } else {
-                            ile++;
-                        }
-                        i++;
-                    }
-                }
-                System.out.println(ile + " " + zle);
-            }
-            System.out.println(ile + " " + zle);
-        }*/
         manualInput(perceptrons);
     }
 
